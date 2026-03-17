@@ -1,0 +1,475 @@
+{
+  "schema_version": "2.0",
+  "meta": {
+    "genetics_types": [
+      "Indica",
+      "Sativa",
+      "Hybrid",
+      "Indica-dominant Hybrid",
+      "Sativa-dominant Hybrid",
+      "Ruderalis"
+    ],
+    "effects": [
+      "relaxed", "euphoric", "happy", "uplifted", "hungry",
+      "creative", "focused", "energetic", "talkative",
+      "sleepy", "calm", "giggly", "aroused"
+    ],
+    "flavors": [
+      "earthy", "pine", "woody", "lemon", "citrus",
+      "sweet", "berry", "blueberry", "herbal", "floral",
+      "lavender", "diesel", "spicy", "peppery",
+      "tropical", "mango", "grape", "mint", "cheese"
+    ],
+    "tags": [
+      "award-winner", "beginner-friendly", "autoflower",
+      "high-cbd", "high-thc", "landrace", "feminized",
+      "indoor-optimized", "outdoor-optimized", "therapeutic",
+      "classic", "cup-winner", "medical"
+    ]
+  },
+  "strains": [
+
+    {
+      "id": "og-kush",
+      "status": "complete",
+      "name": "OG Kush",
+      "breeder": [
+        {
+          "name": "Unknown",
+          "country": "US",
+          "type": "private"
+        }
+      ],
+      "thc": { "min": 18.0, "max": 22.0 },
+      "cbd": { "min": 0.1, "max": 0.5 },
+      "terpenes": ["Myrcene", "Limonene", "Caryophyllene"],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": ["chemdawg", "hindu-kush"]
+      },
+      "effects": ["relaxed", "euphoric", "happy", "uplifted", "hungry"],
+      "flavors": ["earthy", "pine", "woody", "lemon"],
+      "flowering_time_weeks": {
+        "indoor":  { "min": 8, "max": 9 },
+        "outdoor": { "min": 9, "max": 10 }
+      },
+      "yield": {
+        "indoor_g_m2":   400,
+        "outdoor_g_plant": 500
+      },
+      "difficulty": "Moderate",
+      "tags": ["award-winner", "classic"],
+      "description": "A legendary hybrid known for its earthy pine and sour lemon scent with woody undertones. Delivers a heavy, couch-locking euphoria paired with stress relief.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "blue-dream",
+      "status": "complete",
+      "name": "Blue Dream",
+      "breeder": [
+        {
+          "name": "DJ Short",
+          "country": "US",
+          "type": "private"
+        }
+      ],
+      "thc": { "min": 19.0, "max": 23.0 },
+      "cbd": { "min": 0.1, "max": 0.2 },
+      "terpenes": ["Myrcene", "Caryophyllene", "Pinene"],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": ["blueberry", "haze"]
+      },
+      "effects": ["relaxed", "happy", "euphoric", "creative", "uplifted"],
+      "flavors": ["blueberry", "sweet", "berry", "herbal"],
+      "flowering_time_weeks": {
+        "indoor":  { "min": 9, "max": 10 },
+        "outdoor": { "min": 10, "max": 11 }
+      },
+      "yield": {
+        "indoor_g_m2":   500,
+        "outdoor_g_plant": 600
+      },
+      "difficulty": "Easy",
+      "tags": ["beginner-friendly", "classic"],
+      "description": "A sativa-dominant hybrid producing a gentle cerebral invigoration and full-body relaxation. Sweet berry aroma and a smooth, creamy smoke.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "charlottes-web",
+      "status": "complete",
+      "name": "Charlotte's Web",
+      "breeder": [
+        {
+          "name": "Stanley Brothers",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 0.2, "max": 0.4 },
+      "cbd": { "min": 15.0, "max": 20.0 },
+      "terpenes": ["Myrcene", "Caryophyllene", "Linalool"],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": ["stanley-brothers-hemp"]
+      },
+      "effects": ["relaxed", "focused", "calm"],
+      "flavors": ["earthy", "floral", "herbal"],
+      "flowering_time_weeks": {
+        "indoor":  { "min": 9, "max": 11 },
+        "outdoor": { "min": 10, "max": 12 }
+      },
+      "yield": {
+        "indoor_g_m2":   350,
+        "outdoor_g_plant": 700
+      },
+      "difficulty": "Hard",
+      "tags": ["high-cbd", "therapeutic", "medical"],
+      "description": "A high-CBD, low-THC cultivar bred for therapeutic use. Widely recognized for its role in managing seizure disorders and inflammation without psychoactive effects.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "gelato",
+      "status": "complete",
+      "name": "Gelato",
+      "breeder": [
+        {
+          "name": "Cookie Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 23.0, "max": 27.0 },
+      "cbd": { "min": 0.1, "max": 0.3 },
+      "terpenes": ["Limonene", "Caryophyllene", "Linalool"],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": ["sunset-sherbet", "thin-mint-gsc"]
+      },
+      "effects": ["euphoric", "relaxed", "creative", "happy", "uplifted"],
+      "flavors": ["sweet", "citrus", "lavender", "berry"],
+      "flowering_time_weeks": {
+        "indoor":  { "min": 8, "max": 9 },
+        "outdoor": { "min": 9, "max": 10 }
+      },
+      "yield": {
+        "indoor_g_m2":   450,
+        "outdoor_g_plant": 550
+      },
+      "difficulty": "Moderate",
+      "tags": ["high-thc", "award-winner"],
+      "description": "A dessert-like hybrid with a sweet, citrus and lavender aroma. Offers a balanced head and body high with euphoric, creative effects.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "northern-lights",
+      "status": "complete",
+      "name": "Northern Lights",
+      "breeder": [
+        {
+          "name": "Sensi Seeds",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 16.0, "max": 21.0 },
+      "cbd": { "min": 0.1, "max": 0.2 },
+      "terpenes": ["Myrcene", "Pinene", "Terpinolene"],
+      "genetics": {
+        "type": "Indica",
+        "parents": ["afghani", "thai"]
+      },
+      "effects": ["relaxed", "sleepy", "happy", "euphoric", "hungry"],
+      "flavors": ["earthy", "sweet", "pine", "spicy"],
+      "flowering_time_weeks": {
+        "indoor":  { "min": 7, "max": 9 },
+        "outdoor": { "min": 9, "max": 10 }
+      },
+      "yield": {
+        "indoor_g_m2":   500,
+        "outdoor_g_plant": 625
+      },
+      "difficulty": "Easy",
+      "tags": ["beginner-friendly", "classic", "award-winner", "indoor-optimized"],
+      "description": "One of the most famous pure indicas. Produces a deeply relaxing, resinous euphoria with earthy, sweet notes. A classic choice for insomnia and pain relief.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "chemdawg",
+      "status": "stub",
+      "name": "Chemdawg",
+      "breeder": [],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": null,
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor":  { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": {
+        "indoor_g_m2":   null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "hindu-kush",
+      "status": "stub",
+      "name": "Hindu Kush",
+      "breeder": [],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": null,
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor":  { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": {
+        "indoor_g_m2":   null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": ["landrace"],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "blueberry",
+      "status": "stub",
+      "name": "Blueberry",
+      "breeder": [],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": null,
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor":  { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": {
+        "indoor_g_m2":   null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "haze",
+      "status": "stub",
+      "name": "Haze",
+      "breeder": [],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": null,
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor":  { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": {
+        "indoor_g_m2":   null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": ["landrace"],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "sunset-sherbet",
+      "status": "stub",
+      "name": "Sunset Sherbet",
+      "breeder": [],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": null,
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor":  { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": {
+        "indoor_g_m2":   null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "thin-mint-gsc",
+      "status": "stub",
+      "name": "Thin Mint GSC",
+      "breeder": [],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": null,
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor":  { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": {
+        "indoor_g_m2":   null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "afghani",
+      "status": "stub",
+      "name": "Afghani",
+      "breeder": [],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": null,
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor":  { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": {
+        "indoor_g_m2":   null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": ["landrace"],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "thai",
+      "status": "stub",
+      "name": "Thai",
+      "breeder": [],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": null,
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor":  { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": {
+        "indoor_g_m2":   null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": ["landrace"],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+
+    {
+      "id": "stanley-brothers-hemp",
+      "status": "stub",
+      "name": "Stanley Brothers Hemp (Proprietary Phenotype)",
+      "breeder": [
+        {
+          "name": "Stanley Brothers",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": null,
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor":  { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": {
+        "indoor_g_m2":   null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": ["high-cbd", "therapeutic"],
+      "description": "Proprietary industrial hemp phenotype used as the foundation for Charlotte's Web. Details are not publicly disclosed.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    }
+
+  ]
+}
