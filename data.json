@@ -4850,52 +4850,6 @@
       "updated_at": "2026-03-18"
     },
     {
-      "id": "purple-punch",
-      "status": "stub",
-      "name": "Purple Punch",
-      "breeder": [
-        {
-          "name": "Supernova Gardens",
-          "country": "US",
-          "type": "commercial"
-        }
-      ],
-      "thc": {
-        "min": null,
-        "max": null
-      },
-      "cbd": {
-        "min": null,
-        "max": null
-      },
-      "terpenes": [],
-      "genetics": {
-        "type": "Indica-dominant Hybrid",
-        "parents": []
-      },
-      "effects": [],
-      "flavors": [],
-      "flowering_time_weeks": {
-        "indoor": {
-          "min": null,
-          "max": null
-        },
-        "outdoor": {
-          "min": null,
-          "max": null
-        }
-      },
-      "yield": {
-        "indoor_g_m2": null,
-        "outdoor_g_plant": null
-      },
-      "difficulty": null,
-      "tags": [],
-      "description": "Larry OG × Granddaddy Purple. An Indica-dominant hybrid prized for dense, colorful flowers and berry-grape cream flavors. Widely used as a breeding parent.",
-      "created_at": "2026-03-18",
-      "updated_at": "2026-03-18"
-    },
-    {
       "id": "amnesia",
       "status": "stub",
       "name": "Amnesia",
