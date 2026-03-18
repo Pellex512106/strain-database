@@ -10,25 +10,58 @@
       "Ruderalis"
     ],
     "effects": [
-      "relaxed", "euphoric", "happy", "uplifted", "hungry",
-      "creative", "focused", "energetic", "talkative",
-      "sleepy", "calm", "giggly", "aroused"
+      "relaxed",
+      "euphoric",
+      "happy",
+      "uplifted",
+      "hungry",
+      "creative",
+      "focused",
+      "energetic",
+      "talkative",
+      "sleepy",
+      "calm",
+      "giggly",
+      "aroused"
     ],
     "flavors": [
-      "earthy", "pine", "woody", "lemon", "citrus",
-      "sweet", "berry", "blueberry", "herbal", "floral",
-      "lavender", "diesel", "spicy", "peppery",
-      "tropical", "mango", "grape", "mint", "cheese"
+      "earthy",
+      "pine",
+      "woody",
+      "lemon",
+      "citrus",
+      "sweet",
+      "berry",
+      "blueberry",
+      "herbal",
+      "floral",
+      "lavender",
+      "diesel",
+      "spicy",
+      "peppery",
+      "tropical",
+      "mango",
+      "grape",
+      "mint",
+      "cheese"
     ],
     "tags": [
-      "award-winner", "beginner-friendly", "autoflower",
-      "high-cbd", "high-thc", "landrace", "feminized",
-      "indoor-optimized", "outdoor-optimized", "therapeutic",
-      "classic", "cup-winner", "medical"
+      "award-winner",
+      "beginner-friendly",
+      "autoflower",
+      "high-cbd",
+      "high-thc",
+      "landrace",
+      "feminized",
+      "indoor-optimized",
+      "outdoor-optimized",
+      "therapeutic",
+      "classic",
+      "cup-winner",
+      "medical"
     ]
   },
   "strains": [
-
     {
       "id": "og-kush",
       "status": "complete",
@@ -40,30 +73,62 @@
           "type": "private"
         }
       ],
-      "thc": { "min": 18.0, "max": 22.0 },
-      "cbd": { "min": 0.1, "max": 0.5 },
-      "terpenes": ["Myrcene", "Limonene", "Caryophyllene"],
+      "thc": {
+        "min": 18,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.5
+      },
+      "terpenes": [
+        "Myrcene",
+        "Limonene",
+        "Caryophyllene"
+      ],
       "genetics": {
         "type": "Hybrid",
-        "parents": ["chemdawg", "hindu-kush"]
+        "parents": [
+          "chemdawg",
+          "hindu-kush"
+        ]
       },
-      "effects": ["relaxed", "euphoric", "happy", "uplifted", "hungry"],
-      "flavors": ["earthy", "pine", "woody", "lemon"],
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "uplifted",
+        "hungry"
+      ],
+      "flavors": [
+        "earthy",
+        "pine",
+        "woody",
+        "lemon"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": 8, "max": 9 },
-        "outdoor": { "min": 9, "max": 10 }
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
       },
       "yield": {
-        "indoor_g_m2":   400,
+        "indoor_g_m2": 400,
         "outdoor_g_plant": 500
       },
       "difficulty": "Moderate",
-      "tags": ["award-winner", "classic"],
+      "tags": [
+        "award-winner",
+        "classic"
+      ],
       "description": "A legendary hybrid known for its earthy pine and sour lemon scent with woody undertones. Delivers a heavy, couch-locking euphoria paired with stress relief.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "blue-dream",
       "status": "complete",
@@ -75,30 +140,62 @@
           "type": "private"
         }
       ],
-      "thc": { "min": 19.0, "max": 23.0 },
-      "cbd": { "min": 0.1, "max": 0.2 },
-      "terpenes": ["Myrcene", "Caryophyllene", "Pinene"],
+      "thc": {
+        "min": 19,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Pinene"
+      ],
       "genetics": {
         "type": "Sativa-dominant Hybrid",
-        "parents": ["blueberry", "haze"]
+        "parents": [
+          "blueberry",
+          "haze"
+        ]
       },
-      "effects": ["relaxed", "happy", "euphoric", "creative", "uplifted"],
-      "flavors": ["blueberry", "sweet", "berry", "herbal"],
+      "effects": [
+        "relaxed",
+        "happy",
+        "euphoric",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "blueberry",
+        "sweet",
+        "berry",
+        "herbal"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": 9, "max": 10 },
-        "outdoor": { "min": 10, "max": 11 }
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 11
+        }
       },
       "yield": {
-        "indoor_g_m2":   500,
+        "indoor_g_m2": 500,
         "outdoor_g_plant": 600
       },
       "difficulty": "Easy",
-      "tags": ["beginner-friendly", "classic"],
+      "tags": [
+        "beginner-friendly",
+        "classic"
+      ],
       "description": "A sativa-dominant hybrid producing a gentle cerebral invigoration and full-body relaxation. Sweet berry aroma and a smooth, creamy smoke.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "charlottes-web",
       "status": "complete",
@@ -110,30 +207,59 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 0.2, "max": 0.4 },
-      "cbd": { "min": 15.0, "max": 20.0 },
-      "terpenes": ["Myrcene", "Caryophyllene", "Linalool"],
+      "thc": {
+        "min": 0.2,
+        "max": 0.4
+      },
+      "cbd": {
+        "min": 15,
+        "max": 20
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Linalool"
+      ],
       "genetics": {
         "type": "Sativa-dominant Hybrid",
-        "parents": ["stanley-brothers-hemp"]
+        "parents": [
+          "stanley-brothers-hemp"
+        ]
       },
-      "effects": ["relaxed", "focused", "calm"],
-      "flavors": ["earthy", "floral", "herbal"],
+      "effects": [
+        "relaxed",
+        "focused",
+        "calm"
+      ],
+      "flavors": [
+        "earthy",
+        "floral",
+        "herbal"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": 9, "max": 11 },
-        "outdoor": { "min": 10, "max": 12 }
+        "indoor": {
+          "min": 9,
+          "max": 11
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 12
+        }
       },
       "yield": {
-        "indoor_g_m2":   350,
+        "indoor_g_m2": 350,
         "outdoor_g_plant": 700
       },
       "difficulty": "Hard",
-      "tags": ["high-cbd", "therapeutic", "medical"],
+      "tags": [
+        "high-cbd",
+        "therapeutic",
+        "medical"
+      ],
       "description": "A high-CBD, low-THC cultivar bred for therapeutic use. Widely recognized for its role in managing seizure disorders and inflammation without psychoactive effects.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "gelato",
       "status": "complete",
@@ -145,30 +271,62 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 23.0, "max": 27.0 },
-      "cbd": { "min": 0.1, "max": 0.3 },
-      "terpenes": ["Limonene", "Caryophyllene", "Linalool"],
+      "thc": {
+        "min": 23,
+        "max": 27
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.3
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Linalool"
+      ],
       "genetics": {
         "type": "Hybrid",
-        "parents": ["sunset-sherbet", "thin-mint-gsc"]
+        "parents": [
+          "sunset-sherbet",
+          "thin-mint-gsc"
+        ]
       },
-      "effects": ["euphoric", "relaxed", "creative", "happy", "uplifted"],
-      "flavors": ["sweet", "citrus", "lavender", "berry"],
+      "effects": [
+        "euphoric",
+        "relaxed",
+        "creative",
+        "happy",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "citrus",
+        "lavender",
+        "berry"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": 8, "max": 9 },
-        "outdoor": { "min": 9, "max": 10 }
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
       },
       "yield": {
-        "indoor_g_m2":   450,
+        "indoor_g_m2": 450,
         "outdoor_g_plant": 550
       },
       "difficulty": "Moderate",
-      "tags": ["high-thc", "award-winner"],
+      "tags": [
+        "high-thc",
+        "award-winner"
+      ],
       "description": "A dessert-like hybrid with a sweet, citrus and lavender aroma. Offers a balanced head and body high with euphoric, creative effects.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "northern-lights",
       "status": "complete",
@@ -180,262 +338,560 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 16.0, "max": 21.0 },
-      "cbd": { "min": 0.1, "max": 0.2 },
-      "terpenes": ["Myrcene", "Pinene", "Terpinolene"],
+      "thc": {
+        "min": 16,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Pinene",
+        "Terpinolene"
+      ],
       "genetics": {
         "type": "Indica",
-        "parents": ["afghani", "thai"]
+        "parents": [
+          "afghani",
+          "thai"
+        ]
       },
-      "effects": ["relaxed", "sleepy", "happy", "euphoric", "hungry"],
-      "flavors": ["earthy", "sweet", "pine", "spicy"],
+      "effects": [
+        "relaxed",
+        "sleepy",
+        "happy",
+        "euphoric",
+        "hungry"
+      ],
+      "flavors": [
+        "earthy",
+        "sweet",
+        "pine",
+        "spicy"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": 7, "max": 9 },
-        "outdoor": { "min": 9, "max": 10 }
+        "indoor": {
+          "min": 7,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
       },
       "yield": {
-        "indoor_g_m2":   500,
+        "indoor_g_m2": 500,
         "outdoor_g_plant": 625
       },
       "difficulty": "Easy",
-      "tags": ["beginner-friendly", "classic", "award-winner", "indoor-optimized"],
+      "tags": [
+        "beginner-friendly",
+        "classic",
+        "award-winner",
+        "indoor-optimized"
+      ],
       "description": "One of the most famous pure indicas. Produces a deeply relaxing, resinous euphoria with earthy, sweet notes. A classic choice for insomnia and pain relief.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "chemdawg",
-      "status": "stub",
+      "status": "complete",
       "name": "Chemdawg",
-      "breeder": [],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
-      "terpenes": [],
+      "breeder": [
+        {
+          "name": "Unknown (Grateful Dead lot, 1991)",
+          "country": "US",
+          "type": "private"
+        }
+      ],
+      "thc": {
+        "min": 15,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Limonene"
+      ],
       "genetics": {
-        "type": null,
+        "type": "Hybrid",
         "parents": []
       },
-      "effects": [],
-      "flavors": [],
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "uplifted",
+        "creative"
+      ],
+      "flavors": [
+        "diesel",
+        "earthy",
+        "peppery"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 11
+        }
       },
       "yield": {
-        "indoor_g_m2":   null,
-        "outdoor_g_plant": null
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 500
       },
-      "difficulty": null,
-      "tags": [],
-      "description": "",
+      "difficulty": "Moderate",
+      "tags": [
+        "classic",
+        "high-thc"
+      ],
+      "description": "A mysterious strain of uncertain origin, believed to have emerged from a cannabis seed found at a Grateful Dead concert in 1991. Known for its pungent diesel aroma and potent cerebral effects. A foundational parent of many modern hybrids.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "hindu-kush",
-      "status": "stub",
+      "status": "complete",
       "name": "Hindu Kush",
-      "breeder": [],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
-      "terpenes": [],
+      "breeder": [
+        {
+          "name": "Sensi Seeds",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 15,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.3
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Pinene"
+      ],
       "genetics": {
-        "type": null,
+        "type": "Indica",
         "parents": []
       },
-      "effects": [],
-      "flavors": [],
+      "effects": [
+        "relaxed",
+        "sleepy",
+        "happy",
+        "euphoric",
+        "hungry"
+      ],
+      "flavors": [
+        "earthy",
+        "woody",
+        "spicy",
+        "herbal"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
       },
       "yield": {
-        "indoor_g_m2":   null,
-        "outdoor_g_plant": null
+        "indoor_g_m2": 350,
+        "outdoor_g_plant": 400
       },
-      "difficulty": null,
-      "tags": ["landrace"],
-      "description": "",
+      "difficulty": "Easy",
+      "tags": [
+        "landrace",
+        "classic",
+        "beginner-friendly"
+      ],
+      "description": "A pure Indica landrace originating from the Hindu Kush mountain range between Afghanistan and Pakistan. Produces dense, resinous buds with a characteristic earthy and woody aroma. Widely used as a breeding stock for Indica varieties worldwide.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "blueberry",
-      "status": "stub",
+      "status": "complete",
       "name": "Blueberry",
-      "breeder": [],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
-      "terpenes": [],
+      "breeder": [
+        {
+          "name": "DJ Short",
+          "country": "US",
+          "type": "private"
+        }
+      ],
+      "thc": {
+        "min": 15,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Pinene",
+        "Caryophyllene"
+      ],
       "genetics": {
-        "type": null,
+        "type": "Indica-dominant Hybrid",
         "parents": []
       },
-      "effects": [],
-      "flavors": [],
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy"
+      ],
+      "flavors": [
+        "blueberry",
+        "sweet",
+        "berry",
+        "floral"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
       },
       "yield": {
-        "indoor_g_m2":   null,
-        "outdoor_g_plant": null
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 500
       },
-      "difficulty": null,
-      "tags": [],
-      "description": "",
+      "difficulty": "Moderate",
+      "tags": [
+        "award-winner",
+        "classic"
+      ],
+      "description": "Created by the legendary breeder DJ Short in the 1970s, Blueberry is an Indica-dominant hybrid prized for its vivid blue and purple hues and unmistakable sweet blueberry aroma. A High Times Cannabis Cup winner with deeply relaxing effects.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "haze",
-      "status": "stub",
+      "status": "complete",
       "name": "Haze",
-      "breeder": [],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
-      "terpenes": [],
+      "breeder": [
+        {
+          "name": "The Haze Brothers",
+          "country": "US",
+          "type": "private"
+        }
+      ],
+      "thc": {
+        "min": 18,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Terpinolene",
+        "Ocimene",
+        "Myrcene"
+      ],
       "genetics": {
-        "type": null,
+        "type": "Sativa",
         "parents": []
       },
-      "effects": [],
-      "flavors": [],
+      "effects": [
+        "energetic",
+        "creative",
+        "uplifted",
+        "euphoric",
+        "focused"
+      ],
+      "flavors": [
+        "earthy",
+        "citrus",
+        "spicy",
+        "herbal"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 14,
+          "max": 16
+        },
+        "outdoor": {
+          "min": 16,
+          "max": 20
+        }
       },
       "yield": {
-        "indoor_g_m2":   null,
-        "outdoor_g_plant": null
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 500
       },
-      "difficulty": null,
-      "tags": ["landrace"],
-      "description": "",
+      "difficulty": "Hard",
+      "tags": [
+        "landrace",
+        "classic",
+        "cup-winner"
+      ],
+      "description": "Originating in Santa Cruz, California in the 1960s–70s, Haze is a pure Sativa landrace cross that became the cornerstone of countless modern Sativa hybrids. It has an exceptionally long flowering time but delivers unparalleled cerebral, energetic highs with a complex, spiced citrus aroma.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "sunset-sherbet",
       "status": "stub",
       "name": "Sunset Sherbet",
-      "breeder": [],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "breeder": [
+        {
+          "name": "Cookie Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 18,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
       "terpenes": [],
       "genetics": {
-        "type": null,
+        "type": "Indica-dominant Hybrid",
         "parents": []
       },
-      "effects": [],
-      "flavors": [],
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "creative"
+      ],
+      "flavors": [
+        "sweet",
+        "citrus",
+        "berry"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
       "yield": {
-        "indoor_g_m2":   null,
+        "indoor_g_m2": null,
         "outdoor_g_plant": null
       },
-      "difficulty": null,
+      "difficulty": "Moderate",
       "tags": [],
       "description": "",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "thin-mint-gsc",
       "status": "stub",
       "name": "Thin Mint GSC",
-      "breeder": [],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "breeder": [
+        {
+          "name": "Cookie Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 19,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
       "terpenes": [],
       "genetics": {
-        "type": null,
+        "type": "Hybrid",
         "parents": []
       },
-      "effects": [],
-      "flavors": [],
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "mint",
+        "sweet",
+        "earthy"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
       "yield": {
-        "indoor_g_m2":   null,
+        "indoor_g_m2": null,
         "outdoor_g_plant": null
       },
-      "difficulty": null,
+      "difficulty": "Moderate",
       "tags": [],
       "description": "",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "afghani",
-      "status": "stub",
+      "status": "complete",
       "name": "Afghani",
-      "breeder": [],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
-      "terpenes": [],
+      "breeder": [
+        {
+          "name": "Sensi Seeds",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 15,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.6
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Pinene"
+      ],
       "genetics": {
-        "type": null,
+        "type": "Indica",
         "parents": []
       },
-      "effects": [],
-      "flavors": [],
+      "effects": [
+        "relaxed",
+        "sleepy",
+        "happy",
+        "hungry",
+        "euphoric"
+      ],
+      "flavors": [
+        "earthy",
+        "woody",
+        "herbal",
+        "sweet"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
       },
       "yield": {
-        "indoor_g_m2":   null,
-        "outdoor_g_plant": null
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 500
       },
-      "difficulty": null,
-      "tags": ["landrace"],
-      "description": "",
+      "difficulty": "Easy",
+      "tags": [
+        "landrace",
+        "beginner-friendly",
+        "classic"
+      ],
+      "description": "One of the oldest and most widely cultivated cannabis landraces, originating from the Afghani highlands. Produces heavy, resinous buds with an earthy, hash-like aroma. Foundational breeding stock for countless Indica-dominant strains.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "thai",
-      "status": "stub",
+      "status": "complete",
       "name": "Thai",
-      "breeder": [],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
-      "terpenes": [],
+      "breeder": [
+        {
+          "name": "Unknown",
+          "country": "TH",
+          "type": "private"
+        }
+      ],
+      "thc": {
+        "min": 14,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.3
+      },
+      "terpenes": [
+        "Terpinolene",
+        "Myrcene",
+        "Ocimene"
+      ],
       "genetics": {
-        "type": null,
+        "type": "Sativa",
         "parents": []
       },
-      "effects": [],
-      "flavors": [],
+      "effects": [
+        "energetic",
+        "creative",
+        "euphoric",
+        "uplifted",
+        "focused"
+      ],
+      "flavors": [
+        "citrus",
+        "tropical",
+        "herbal",
+        "spicy"
+      ],
       "flowering_time_weeks": {
-        "indoor":  { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 12,
+          "max": 16
+        },
+        "outdoor": {
+          "min": 16,
+          "max": 20
+        }
       },
       "yield": {
-        "indoor_g_m2":   null,
-        "outdoor_g_plant": null
+        "indoor_g_m2": 300,
+        "outdoor_g_plant": 600
       },
-      "difficulty": null,
-      "tags": ["landrace"],
-      "description": "",
+      "difficulty": "Hard",
+      "tags": [
+        "landrace",
+        "classic"
+      ],
+      "description": "A pure Sativa landrace from Thailand, historically known as 'Thai Stick'. Produces a soaring, cerebral high with a long flowering period. Its genetics have contributed to many classic Sativa hybrids including Northern Lights and Haze crosses.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
     },
-
     {
       "id": "stanley-brothers-hemp",
       "status": "stub",
@@ -447,8 +903,14 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": null,
@@ -457,19 +919,4406 @@
       "effects": [],
       "flavors": [],
       "flowering_time_weeks": {
-        "indoor":  { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
       "yield": {
-        "indoor_g_m2":   null,
+        "indoor_g_m2": null,
         "outdoor_g_plant": null
       },
       "difficulty": null,
-      "tags": ["high-cbd", "therapeutic"],
-      "description": "Proprietary industrial hemp phenotype used as the foundation for Charlotte's Web. Details are not publicly disclosed.",
+      "tags": [
+        "high-cbd",
+        "therapeutic"
+      ],
+      "description": "Proprietary industrial hemp phenotype used as the foundation for Charlotte's Web. Specific genetic details are not publicly disclosed.",
       "created_at": "2026-03-17",
       "updated_at": "2026-03-17"
+    },
+    {
+      "id": "ruderalis",
+      "status": "stub",
+      "name": "Ruderalis",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Ruderalis",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [
+        "landrace"
+      ],
+      "description": "Cannabis Ruderalis landrace from Central Asia. The autoflowering parent used in virtually all modern autoflowering hybrids.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "gorilla-glue-4",
+      "status": "stub",
+      "name": "Gorilla Glue #4",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [
+        "high-thc",
+        "award-winner"
+      ],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "zkittlez",
+      "status": "stub",
+      "name": "Zkittlez",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "gsc",
+      "status": "stub",
+      "name": "Girl Scout Cookies",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [
+        "award-winner",
+        "high-thc"
+      ],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "purple-punch",
+      "status": "stub",
+      "name": "Purple Punch",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "do-si-dos",
+      "status": "stub",
+      "name": "Do-Si-Dos",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [
+        "high-thc"
+      ],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "tangie",
+      "status": "stub",
+      "name": "Tangie",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "ak-47",
+      "status": "stub",
+      "name": "AK-47",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [
+        "award-winner",
+        "classic"
+      ],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "sour-diesel",
+      "status": "stub",
+      "name": "Sour Diesel",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [
+        "classic"
+      ],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "bruce-banner",
+      "status": "stub",
+      "name": "Bruce Banner",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [
+        "high-thc"
+      ],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "stardawg",
+      "status": "stub",
+      "name": "Stardawg",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "pineapple-express",
+      "status": "stub",
+      "name": "Pineapple Express",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "wedding-cake",
+      "status": "stub",
+      "name": "Wedding Cake",
+      "breeder": [],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [
+        "high-thc"
+      ],
+      "description": "",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "gorilla-glue-auto",
+      "status": "complete",
+      "name": "Gorilla Glue Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "gorilla-glue-4",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy",
+        "hungry"
+      ],
+      "flavors": [
+        "earthy",
+        "pine",
+        "diesel"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 150
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc",
+        "award-winner"
+      ],
+      "description": "FastBuds' flagship autoflower, derived from the legendary GG4. Produces enormous resinous buds bursting with Caryophyllene and a diesel-pine nose, delivering a powerful, full-body relaxation.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "wedding-cheesecake-auto",
+      "status": "complete",
+      "name": "Wedding Cheesecake Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 23,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "wedding-cake",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "uplifted",
+        "calm"
+      ],
+      "flavors": [
+        "sweet",
+        "citrus",
+        "herbal",
+        "cheese"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "A rich cross of Wedding Cake genetics brought into autoflower form. Sweet vanilla pastry aromas blend with sharp cheese undertones, producing a deeply relaxing, mood-lifting high.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "zkittlez-auto",
+      "status": "complete",
+      "name": "Zkittlez Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 23,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "zkittlez",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "uplifted",
+        "giggly"
+      ],
+      "flavors": [
+        "sweet",
+        "grape",
+        "tropical",
+        "citrus"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "The autoflowering version of the multi-Cup-winning Zkittlez. Produces candy-sweet, tropical flavors and a profoundly relaxing body high ideal for beginners and veterans alike.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "gsc-auto",
+      "status": "complete",
+      "name": "Girl Scout Cookies Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 21,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "gsc",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "relaxed",
+        "happy",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy",
+        "mint"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "The iconic GSC lineage in compact autoflower format. Delivers a well-balanced euphoric and relaxing high backed by its signature sweet, minty, earthy flavor profile.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "og-kush-auto",
+      "status": "complete",
+      "name": "OG Kush Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 21,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.3
+      },
+      "terpenes": [
+        "Myrcene",
+        "Limonene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "og-kush",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "hungry",
+        "sleepy"
+      ],
+      "flavors": [
+        "earthy",
+        "pine",
+        "lemon"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly",
+        "classic"
+      ],
+      "description": "FastBuds' take on the legendary OG Kush, now in a fast-finishing auto. The classic earthy, lemon-pine profile and heavy euphoric body stone are fully preserved in this beginner-friendly package.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "blue-dream-auto",
+      "status": "complete",
+      "name": "Blue Dream Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "blue-dream",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "happy",
+        "euphoric",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "blueberry",
+        "sweet",
+        "berry",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "The beloved Blue Dream transferred to autoflower genetics. Retains its signature sweet blueberry aroma and balanced sativa-leaning high, finishing in just 9–10 weeks from seed.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "strawberry-gorilla-auto",
+      "status": "complete",
+      "name": "Strawberry Gorilla Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 25,
+        "max": 27
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "gorilla-glue-4",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "uplifted",
+        "giggly"
+      ],
+      "flavors": [
+        "sweet",
+        "berry",
+        "earthy",
+        "diesel"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 150
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "A cross between Gorilla Glue #4 and a strawberry phenotype, delivering massive THC levels and an addictive sweet-diesel aroma. One of FastBuds' highest-yielding autos.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "west-coast-og-auto",
+      "status": "complete",
+      "name": "West Coast OG Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 23,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "og-kush",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy",
+        "hungry"
+      ],
+      "flavors": [
+        "earthy",
+        "pine",
+        "lemon",
+        "woody"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "A West Coast expression of OG Kush genetics selected for potency and bag appeal. Dense, trichome-coated buds with a piney-earthy nose and a deeply sedating, classic OG stone.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "californian-snow-auto",
+      "status": "complete",
+      "name": "Californian Snow Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Terpinolene",
+        "Limonene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "creative",
+        "uplifted",
+        "happy",
+        "focused"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "A sun-grown Californian-inspired Sativa auto with bright citrus and sweet herbal aromas. The stimulating, creative high makes it a great daytime companion, finishing in under 10 weeks.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "pineapple-express-auto",
+      "status": "complete",
+      "name": "Pineapple Express Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Terpinolene",
+        "Myrcene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "pineapple-express",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "creative",
+        "happy",
+        "uplifted",
+        "euphoric"
+      ],
+      "flavors": [
+        "tropical",
+        "sweet",
+        "citrus",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "The cult-classic Pineapple Express genetics squeezed into a fast autoflower. Bursting with tropical, sweet pineapple aromas and delivering an uplifting, functional sativa buzz.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "gelato-auto",
+      "status": "complete",
+      "name": "Gelato Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 26,
+        "max": 28
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "gelato",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "relaxed",
+        "creative",
+        "happy",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "citrus",
+        "berry",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 150
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc",
+        "award-winner"
+      ],
+      "description": "One of the most powerful autos in the FastBuds catalog, pushing 26–28% THC. Gelato's dessert-sweet citrus and berry profile is faithfully preserved alongside an intensely euphoric hybrid effect.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "auto-blueberry",
+      "status": "complete",
+      "name": "Auto Blueberry",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 14,
+        "max": 16
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Pinene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "blueberry",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy",
+        "calm"
+      ],
+      "flavors": [
+        "blueberry",
+        "sweet",
+        "berry",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 7,
+          "max": 8
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 350,
+        "outdoor_g_plant": 80
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly",
+        "classic"
+      ],
+      "description": "A faithful autoflower adaptation of DJ Short's iconic Blueberry. Lower THC makes this an approachable, smooth smoke with a true blueberry sweetness and a mellowing, calm body effect.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "auto-ak",
+      "status": "complete",
+      "name": "Auto AK",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "ak-47",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "happy",
+        "euphoric",
+        "uplifted",
+        "creative"
+      ],
+      "flavors": [
+        "earthy",
+        "woody",
+        "spicy",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly",
+        "classic"
+      ],
+      "description": "The legendary AK-47 in compact autoflowering form. Delivers the same earthy, spicy, well-rounded high that made AK-47 a global classic, now ready in under 9 weeks from seed.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "amnesia-haze-auto",
+      "status": "complete",
+      "name": "Amnesia Haze Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Terpinolene",
+        "Myrcene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "haze",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "creative",
+        "euphoric",
+        "uplifted",
+        "focused"
+      ],
+      "flavors": [
+        "citrus",
+        "earthy",
+        "lemon",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "The celebrated Amnesia Haze brought to autoflower growers. A cerebral, energetic sativa experience with complex citrus-lemon-earth tones, now accessible without a long photoperiod season.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "crystal-meth-auto",
+      "status": "complete",
+      "name": "Crystal Meth Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 25,
+        "max": 27
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Terpinolene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "creative",
+        "euphoric",
+        "uplifted",
+        "focused"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 120
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "Named for its extraordinary crystal coverage, Crystal Meth Auto is a high-THC sativa-leaning powerhouse delivering a sharp cerebral buzz with sweet citrus aromas and explosive resin production.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "blackberry-auto",
+      "status": "complete",
+      "name": "Blackberry Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy",
+        "hungry"
+      ],
+      "flavors": [
+        "berry",
+        "sweet",
+        "earthy",
+        "grape"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 7,
+          "max": 8
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "A fragrant berry-forward indica auto with deep purple hues under cool temperatures. Delivers a sweet blackberry and grape flavor and a cozy, relaxing body stone ideal for evenings.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "do-si-dos-auto",
+      "status": "complete",
+      "name": "Do-Si-Dos Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "do-si-dos",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy",
+        "hungry"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy",
+        "floral",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 120
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "FastBuds' autoflower version of the potent Do-Si-Dos. Heavy Indica genetics deliver a deeply sedating, euphoric high with sweet floral and earthy notes — a top-shelf evening strain.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "banana-purple-punch-auto",
+      "status": "complete",
+      "name": "Banana Purple Punch Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "purple-punch",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy",
+        "hungry"
+      ],
+      "flavors": [
+        "tropical",
+        "sweet",
+        "berry",
+        "grape"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "A fruity, dessert-like cross that combines banana and purple berry notes from its Purple Punch lineage. Produces visually striking purple buds and a heavy, tranquilizing Indica effect.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "tangie-auto",
+      "status": "complete",
+      "name": "Tangie Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Terpinolene",
+        "Limonene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "tangie",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "creative",
+        "uplifted",
+        "euphoric",
+        "happy"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet",
+        "tropical",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "The zesty Tangie lineage in autoflower form. Bursts with fresh orange and citrus aromas underpinned by tropical sweetness, delivering a bright, uplifting sativa high in under 10 weeks.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "purple-lemonade-auto",
+      "status": "complete",
+      "name": "Purple Lemonade Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "creative",
+        "uplifted",
+        "happy",
+        "relaxed"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet",
+        "lemon",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "A sativa auto with deep purple coloration and a lemonade-forward terpene profile. Easy to grow, quick to finish, and delivering a joyful, uplifting high with expressive citrus flavors.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "cream-cookies-auto",
+      "status": "complete",
+      "name": "Cream Cookies Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "gsc",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "uplifted",
+        "creative"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy",
+        "mint",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "Bred from Girl Scout Cookies genetics, Cream Cookies Auto offers a smooth, creamy sweetness with earthy and mint undertones. Balanced hybrid effects lean toward relaxation with a pleasant euphoric lift.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "lemon-ak-auto",
+      "status": "complete",
+      "name": "Lemon AK Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Terpinolene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "ak-47",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "creative",
+        "uplifted",
+        "happy",
+        "euphoric"
+      ],
+      "flavors": [
+        "lemon",
+        "citrus",
+        "earthy",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "A citrus-forward twist on the Auto AK lineage, expressing a strong lemon and fresh herb nose. Energising and creative sativa effects suit daytime use, and it thrives in the hands of beginners.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "stardawg-auto",
+      "status": "complete",
+      "name": "Stardawg Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "stardawg",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "creative",
+        "energetic",
+        "uplifted",
+        "euphoric",
+        "focused"
+      ],
+      "flavors": [
+        "diesel",
+        "earthy",
+        "peppery",
+        "pine"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "Stardawg's pungent diesel and pine character preserved in autoflower form. Delivers a focused, stimulating sativa buzz with a distinct earthy-peppery hash nose and strong resin production.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "cbd-crack-auto",
+      "status": "complete",
+      "name": "CBD Crack Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 6,
+        "max": 8
+      },
+      "cbd": {
+        "min": 5,
+        "max": 7
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "focused",
+        "calm",
+        "happy"
+      ],
+      "flavors": [
+        "citrus",
+        "earthy",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "high-cbd",
+        "therapeutic",
+        "medical"
+      ],
+      "description": "A CBD-rich autoflower with near 1:1 THC:CBD ratio, bred for wellness and daytime therapeutic use. Gentle citrus-herbal aromas and calming, clear-headed effects with no disorienting psychoactivity.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "mimosa-auto",
+      "status": "complete",
+      "name": "Mimosa Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Terpinolene",
+        "Limonene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "uplifted",
+        "euphoric",
+        "creative",
+        "happy"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet",
+        "tropical",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "Inspired by the brunch cocktail, Mimosa Auto delivers sparkling citrus and tropical aromas with a bright, social, uplifting effect — an excellent daytime auto for creative and energetic moods.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "peyote-critical-auto",
+      "status": "complete",
+      "name": "Peyote Critical Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "hungry",
+        "sleepy"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy",
+        "herbal",
+        "spicy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 7,
+          "max": 8
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "A compact, fast-finishing indica auto with Peyote Critical roots. Produces dense, resinous buds with a complex sweet, earthy and spiced aroma and a relaxing, hunger-inducing body effect.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "bruce-banner-auto",
+      "status": "complete",
+      "name": "Bruce Banner Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 25,
+        "max": 27
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "bruce-banner",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "creative",
+        "uplifted",
+        "relaxed",
+        "happy"
+      ],
+      "flavors": [
+        "sweet",
+        "diesel",
+        "earthy",
+        "citrus"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 150
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "Named after the alter ego of the Hulk, Bruce Banner Auto is one of the most potent in the catalog. A true hybrid with explosive THC levels, sweet diesel aromas, and a soaring euphoric effect.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "apple-fritter-auto",
+      "status": "complete",
+      "name": "Apple Fritter Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Linalool",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "do-si-dos",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy",
+        "herbal",
+        "citrus"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "Apple Fritter Auto brings the award-winning phenotype into autoflower. Dense buds with a sweet baked pastry and earthy aroma deliver a potent balanced effect with a pleasant sativa tilt.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "tropicana-cookies-auto",
+      "status": "complete",
+      "name": "Tropicana Cookies Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Terpinolene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "tangie",
+          "gsc",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "uplifted",
+        "euphoric",
+        "creative",
+        "happy",
+        "energetic"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet",
+        "tropical",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "A vibrant cross of Tangie and Girl Scout Cookies, Tropicana Cookies Auto explodes with zesty orange and tropical citrus. A creative, uplifting sativa-leaning experience ideal for social settings.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "chemdawg-auto",
+      "status": "complete",
+      "name": "Chemdawg Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "chemdawg",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "uplifted",
+        "creative"
+      ],
+      "flavors": [
+        "diesel",
+        "earthy",
+        "peppery"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "classic"
+      ],
+      "description": "The legendary Chemdawg in a fast autoflower format. Preserves the sharp diesel-earth nose and the versatile, introspective cerebral high that made Chemdawg one of the most influential strains ever bred.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "la-confidential-auto",
+      "status": "complete",
+      "name": "L.A. Confidential Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Indica",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "sleepy",
+        "happy",
+        "euphoric",
+        "hungry"
+      ],
+      "flavors": [
+        "earthy",
+        "pine",
+        "woody",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 7,
+          "max": 8
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "A pure Indica auto inspired by the award-winning L.A. Confidential. Smooth, piney and earthy smoke leads to a fast-onset, deeply sedating body high — a classic evening and insomnia strain.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "blue-gelato-auto",
+      "status": "complete",
+      "name": "Blue Gelato Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 25,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "blue-dream",
+          "gelato",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "relaxed",
+        "creative",
+        "happy",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "berry",
+        "citrus",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 120
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "A premium cross of Blue Dream and Gelato genetics, Blue Gelato Auto combines berry sweetness with citrus floral notes and delivers an intensely euphoric, creative hybrid experience at exceptional potency.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "candy-kush-auto",
+      "status": "complete",
+      "name": "Candy Kush Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "og-kush",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy",
+        "hungry"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy",
+        "citrus",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 7,
+          "max": 8
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "A sweet twist on OG Kush genetics, Candy Kush Auto wraps the classic earthy Kush base in a layer of sugary citrus sweetness. A compact, fast-finishing strain with reliable indica relaxation.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "amnesia-auto",
+      "status": "complete",
+      "name": "Amnesia Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Terpinolene",
+        "Myrcene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "haze",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "uplifted",
+        "euphoric",
+        "creative",
+        "happy"
+      ],
+      "flavors": [
+        "citrus",
+        "earthy",
+        "lemon",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "A fast-finishing sativa auto derived from Amnesia Haze roots. Bright lemon-citrus aromas and an energising, cerebral high make it an ideal daytime autoflower for experienced and new growers alike.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "nyc-diesel-auto",
+      "status": "complete",
+      "name": "NYC Diesel Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 19,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "sour-diesel",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "euphoric",
+        "uplifted",
+        "creative",
+        "happy"
+      ],
+      "flavors": [
+        "diesel",
+        "citrus",
+        "earthy",
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "The urban-classic NYC Diesel in autoflower form. Pungent diesel and citrus aromas drive a lively, chatty sativa high — social, creative, and perfect for daytime use with a fast seed-to-harvest cycle.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "sour-diesel-auto",
+      "status": "complete",
+      "name": "Sour Diesel Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "sour-diesel",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "euphoric",
+        "uplifted",
+        "creative",
+        "focused"
+      ],
+      "flavors": [
+        "diesel",
+        "earthy",
+        "citrus",
+        "peppery"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "Sour Diesel's iconic pungent fuel-citrus aroma and sharp, cerebral sativa effect preserved in autoflower format. A classic choice for focus and creativity, now accessible in any growing season.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "lsd-25-auto",
+      "status": "complete",
+      "name": "LSD-25 Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "earthy",
+        "sweet",
+        "woody",
+        "spicy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "LSD-25 Auto delivers a surprisingly psychedelic, visually stimulating experience from potent Indica genetics. Complex earthy tones with hints of spice, producing an introspective and deeply relaxing high.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "auto-bubble",
+      "status": "complete",
+      "name": "Auto Bubble",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 17,
+        "max": 19
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Limonene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Indica",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "calm",
+        "sleepy"
+      ],
+      "flavors": [
+        "sweet",
+        "berry",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 7,
+          "max": 8
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 350,
+        "outdoor_g_plant": 70
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "A beginner-friendly pure Indica auto with gentle THC levels and a sweet, berry-cream aroma. Compact plants deliver calming, easy-going relaxation — a great entry-level auto for new cultivators.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "gorilla-punch-auto",
+      "status": "complete",
+      "name": "Gorilla Punch Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "gorilla-glue-4",
+          "purple-punch",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "uplifted",
+        "creative"
+      ],
+      "flavors": [
+        "sweet",
+        "berry",
+        "earthy",
+        "diesel"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 130
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "A cross of Gorilla Glue #4 and Purple Punch genetics, combining heavy resin production with sweet berry aromas. Gorilla Punch Auto hits hard with a balanced euphoric-relaxing effect and exceptional yields.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "runtz-auto",
+      "status": "complete",
+      "name": "Runtz Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "zkittlez",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "relaxed",
+        "uplifted",
+        "happy",
+        "creative"
+      ],
+      "flavors": [
+        "sweet",
+        "tropical",
+        "citrus",
+        "grape"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 110
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "Runtz Auto brings the coveted candy-sweet tropical flavors of the Runtz lineage into a fast autoflower. Dense, colorful buds deliver a smooth, long-lasting euphoric high with excellent bag appeal.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "apple-sherbet-auto",
+      "status": "complete",
+      "name": "Apple Sherbet Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "calm",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "citrus",
+        "herbal",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "A creamy, apple-forward indica-leaning auto with floral and herbal undertones. Apple Sherbet Auto produces resinous buds and a smooth, calm relaxation with a pleasant sweet-citrus aftertaste.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "watermelon-auto",
+      "status": "complete",
+      "name": "Watermelon Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy",
+        "hungry"
+      ],
+      "flavors": [
+        "sweet",
+        "tropical",
+        "earthy",
+        "citrus"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "A refreshingly sweet and tropical indica auto. Watermelon Auto produces flavorful, terpene-rich buds with a genuine watermelon candy aroma and a soothing, hunger-inducing body effect.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "grapefruit-auto",
+      "status": "complete",
+      "name": "Grapefruit Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 19,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Terpinolene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "uplifted",
+        "euphoric",
+        "happy",
+        "creative"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet",
+        "tropical",
+        "lemon"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "A zesty, sativa-leaning auto with a sharp grapefruit and citrus aroma. Grapefruit Auto offers a bright, uplifting daytime effect and is simple to grow, making it ideal for beginners seeking a fruity Sativa.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "banana-blaze-auto",
+      "status": "complete",
+      "name": "Banana Blaze Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 23,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy",
+        "hungry"
+      ],
+      "flavors": [
+        "sweet",
+        "tropical",
+        "earthy",
+        "citrus"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "Banana Blaze Auto dazzles with a rich tropical banana aroma and high THC output. Dense indica buds deliver a smooth, sweet-tasting smoke and a relaxing, heavy body stone best enjoyed in the evening.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "purple-punch-auto",
+      "status": "complete",
+      "name": "Purple Punch Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Linalool",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "purple-punch",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy",
+        "calm"
+      ],
+      "flavors": [
+        "sweet",
+        "grape",
+        "berry",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 7,
+          "max": 8
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly"
+      ],
+      "description": "Purple Punch Auto translates the stunning grape-berry indica genetics into compact, fast-finishing plants. Deep purple coloration, a candy-sweet grape aroma, and a profoundly sedating evening effect.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "orange-sherbet-auto",
+      "status": "complete",
+      "name": "Orange Sherbet Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 21,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "happy",
+        "uplifted",
+        "creative",
+        "relaxed"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet",
+        "herbal",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 90
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "A cheerful, citrus-forward hybrid auto with a sweet creamy orange sherbet character. Delivers a balanced, mood-lifting and gently relaxing effect — a pleasant all-day companion.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "strawberry-pie-auto",
+      "status": "complete",
+      "name": "Strawberry Pie Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Limonene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "uplifted",
+        "hungry"
+      ],
+      "flavors": [
+        "sweet",
+        "berry",
+        "earthy",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 400,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "A fragrant indica-dominant auto with a baked strawberry pastry aroma. Strawberry Pie Auto delivers dense, sticky buds and a smooth, relaxing euphoria with just enough uplift to keep the mood positive.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "mimosa-evo-auto",
+      "status": "complete",
+      "name": "Mimosa Evo Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 23,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Terpinolene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "uplifted",
+        "euphoric",
+        "creative",
+        "happy"
+      ],
+      "flavors": [
+        "citrus",
+        "tropical",
+        "sweet",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 110
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower",
+        "high-thc"
+      ],
+      "description": "An evolved Mimosa phenotype selected for higher potency and more complex tropical citrus terpenes. Mimosa Evo Auto excels as a daytime sativa auto with an effervescent, creative, long-lasting high.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "zkittlez-og-auto",
+      "status": "complete",
+      "name": "Zkittlez OG Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 23,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "zkittlez",
+          "og-kush",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "uplifted",
+        "hungry"
+      ],
+      "flavors": [
+        "sweet",
+        "citrus",
+        "earthy",
+        "tropical"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "autoflower"
+      ],
+      "description": "A fusion of Zkittlez's candy sweetness and OG Kush's earthy depth, brought to autoflower growers. Dense, terpene-rich buds with a complex sweet-earthy profile and a balanced, deeply satisfying high.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "kush-xl-auto",
+      "status": "complete",
+      "name": "Kush XL Auto",
+      "breeder": [
+        {
+          "name": "42 FastBuds",
+          "country": "ES",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Indica",
+        "parents": [
+          "afghani",
+          "ruderalis"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "sleepy",
+        "euphoric",
+        "happy",
+        "hungry"
+      ],
+      "flavors": [
+        "earthy",
+        "woody",
+        "pine",
+        "spicy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 7,
+          "max": 8
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 100
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "autoflower",
+        "beginner-friendly",
+        "indoor-optimized"
+      ],
+      "description": "A large-yielding pure Indica auto rooted in Afghani landrace genetics. Kush XL Auto produces compact, resin-heavy plants with an earthy hash aroma and a heavy, couch-locking body stone.",
+      "created_at": "2026-03-17",
+      "updated_at": "2026-03-17"
+    },
+    {
+      "id": "tropicana-cookies",
+      "status": "stub",
+      "name": "Tropicana Cookies",
+      "breeder": [
+        {
+          "name": "Oni Seed Co",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Tangie × Girl Scout Cookies (Forum Cut). A Sativa-dominant hybrid by Oni Seed Co known for its bold citrus and confectionary terpene profile. Foundational parent of Tropicanna Punch.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "purple-punch",
+      "status": "stub",
+      "name": "Purple Punch",
+      "breeder": [
+        {
+          "name": "Supernova Gardens",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Larry OG × Granddaddy Purple. An Indica-dominant hybrid prized for dense, colorful flowers and berry-grape cream flavors. Widely used as a breeding parent.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "amnesia",
+      "status": "stub",
+      "name": "Amnesia",
+      "breeder": [
+        {
+          "name": "Unknown",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [
+        "classic"
+      ],
+      "description": "A Haze-dominant Dutch classic, widely used in European and Colombian breeding programs. Known for powerful cerebral effects and citrus-earth aromas.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "nicole-kush",
+      "status": "stub",
+      "name": "Nicole Kush",
+      "breeder": [
+        {
+          "name": "DNA Genetics",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Nicole (Marimberos) × Kosher Kush (DNA Genetics). An Indica-dominant hybrid by DNA Genetics used by Black Tuna Co as a key parent in their Limonada de Mango and other Colombian-bred crosses.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "tropicanna-punch-line",
+      "status": "complete",
+      "name": "Tropicanna Punch Line",
+      "breeder": [
+        {
+          "name": "Black Tuna Co",
+          "country": "Colombia",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 27
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.3
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "tropicana-cookies",
+          "purple-punch"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "relaxed",
+        "creative",
+        "happy",
+        "uplifted"
+      ],
+      "flavors": [
+        "grape",
+        "citrus",
+        "sweet",
+        "tropical"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Black Tuna Co's flagship creation — an S1 feminization of their prized Tropicanna Punch #61 phenotype, selected from over 100 specimens of the original Oni Seed Co cross (Tropicana Cookies × Purple Punch). The #61 was chosen for its military-green density, hybrid vigor, and an exceptional grape-chemical aroma unlike any other phenotype in the run. The resulting S1 seeds deliver consistent, near-clone phenotypes with deep purple coloration, dense trichome coverage, and a grape candy profile backed by citrus and sweet undertones. A cornerstone parent across the entire Black Tuna breeding program.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "acai-black-tuna",
+      "status": "complete",
+      "name": "Açaí",
+      "breeder": [
+        {
+          "name": "Black Tuna Co",
+          "country": "Colombia",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.3
+      },
+      "terpenes": [
+        "Linalool",
+        "Limonene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "tropicanna-punch-line"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "creative",
+        "uplifted",
+        "happy",
+        "relaxed"
+      ],
+      "flavors": [
+        "grape",
+        "berry",
+        "sweet",
+        "tropical"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "A feminized Sativa-dominant hybrid from Black Tuna Co, bred by crossing The New #122 (Larry OG × GSC) with their celebrated Tropicanna Punch #61 cut. The result is an aromatic cultivar with notes unmistakably reminiscent of açaí berry alongside subtle hints of grape and tropical fruit. Balanced 60% Sativa / 40% Indica expression delivers a creative, uplifting cerebral high that settles into a warm, relaxed body state.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "bloodsport-black-tuna",
+      "status": "complete",
+      "name": "Bloodsport",
+      "breeder": [
+        {
+          "name": "Black Tuna Co",
+          "country": "Colombia",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 28
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.3
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "tropicanna-punch-line"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "creative",
+        "uplifted",
+        "energetic",
+        "relaxed"
+      ],
+      "flavors": [
+        "citrus",
+        "tropical",
+        "sweet",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "A high-resin Sativa-dominant hybrid from Black Tuna Co, created by crossing BloodOath (GMO × (Gorilla Glue #4 × Mendobreath)) with their landmark Tropicanna Punch #61. Delivers a rich aroma of tropical fruit with citrus undertones and a sharp, energetic euphoria. The BloodOath parentage contributes exceptional resin production and physical potency, while the Tropicanna Punch #61 adds visual appeal and aromatic complexity.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "rayo-lazer",
+      "status": "complete",
+      "name": "Rayo Lazer",
+      "breeder": [
+        {
+          "name": "Black Tuna Co",
+          "country": "Colombia",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.3
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "tropical",
+        "citrus",
+        "sweet",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "A feminized hybrid from Black Tuna Co, bred by crossing Slapz (Gorilla Glue #4 × Runtz) with Sherbert Shocker (Sunset Sherbet × OZK). Produces an aroma of tropical fruits with creamy citrus notes and a subtle earthiness. Both parent lines are proprietary Black Tuna working cuts; the cross delivers a balanced, calming euphoria suited for creative and social settings.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "limonada-de-mango-f2",
+      "status": "complete",
+      "name": "Limonada de Mango F2",
+      "breeder": [
+        {
+          "name": "Black Tuna Co",
+          "country": "Colombia",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.3
+      },
+      "terpenes": [
+        "Myrcene",
+        "Terpinolene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "amnesia",
+          "nicole-kush"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "energetic",
+        "creative",
+        "uplifted",
+        "focused"
+      ],
+      "flavors": [
+        "mango",
+        "lemon",
+        "citrus",
+        "tropical",
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 10,
+          "max": 12
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "An F2 generation of Black Tuna Co's Limonada de Mango, refined from an Amnesia × Nicole Kush cross. The F2 stabilization preserves the strain's signature mango-lemon tropical aroma while introducing greater phenotypic diversity for breeders. A Sativa-dominant hybrid delivering an energetic, focused cerebral high with a long-lasting uplifting effect. Strongly influenced by Amnesia's Haze genetics and Colombian heritage, rooted in Black Tuna's Santa Marta breeding environment.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
     }
-
   ]
 }

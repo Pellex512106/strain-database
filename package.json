@@ -4,11 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "validate":   "node scripts/validate.js",
+    "validate:all": "node scripts/validate.js --stubs",
+    "query":      "node scripts/query.js",
+    "add-fields": "node add_strain_fields.js",
+    "test":       "node scripts/validate.js --strict"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "packageManager": "pnpm@10.32.1",
   "dependencies": {
     "dayjs": "^1.11.20"
