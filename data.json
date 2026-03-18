@@ -5273,6 +5273,564 @@
       "description": "An F2 generation of Black Tuna Co's Limonada de Mango, refined from an Amnesia × Nicole Kush cross. The F2 stabilization preserves the strain's signature mango-lemon tropical aroma while introducing greater phenotypic diversity for breeders. A Sativa-dominant hybrid delivering an energetic, focused cerebral high with a long-lasting uplifting effect. Strongly influenced by Amnesia's Haze genetics and Colombian heritage, rooted in Black Tuna's Santa Marta breeding environment.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
+    },
+    {
+      "id": "runtz",
+      "status": "stub",
+      "name": "Runtz",
+      "breeder": [
+        {
+          "name": "Cookies",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": null,
+      "tags": ["high-thc", "feminized"],
+      "description": "Zkittlez × Gelato. A celebrated hybrid from Cookies bred in California, renowned for its candy-sweet fruit aroma, dense trichome coverage, and balanced high. A foundational parent in countless modern hybrids.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "mac1",
+      "status": "stub",
+      "name": "MAC 1 (Miracle Alien Cookies)",
+      "breeder": [
+        {
+          "name": "Capulator",
+          "country": "US",
+          "type": "private"
+        }
+      ],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": null,
+      "tags": ["high-thc", "classic"],
+      "description": "Alien Cookies F2 × (Colombian × Starfighter). Created by breeder Capulator. One of the most coveted clone-only cultivars in the US market, prized for frosty appearance, balanced hybrid effects, and creamy, spiced terpenes.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "gary-payton",
+      "status": "stub",
+      "name": "Gary Payton",
+      "breeder": [
+        {
+          "name": "Cookies",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": null,
+      "tags": ["high-thc"],
+      "description": "The Y × Snowman (Cookies). A high-potency hybrid from Cookies, named in collaboration with the NBA Hall of Famer. Known for fuel and spicy terpenes with a powerful euphoric effect.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "cherry-cookies",
+      "status": "stub",
+      "name": "Cherry Cookies",
+      "breeder": [
+        {
+          "name": "Unknown",
+          "country": "US",
+          "type": "private"
+        }
+      ],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": null,
+      "tags": [],
+      "description": "A cherry-forward GSC-lineage hybrid used as a stud parent in CopyCat Genetix's Cherry Runtz cross. Specific breeder origin not publicly confirmed.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "oreoz",
+      "status": "stub",
+      "name": "Oreoz",
+      "breeder": [
+        {
+          "name": "Unknown",
+          "country": "US",
+          "type": "private"
+        }
+      ],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": null,
+      "tags": ["high-thc"],
+      "description": "Cookies and Cream × Secret Weapon. An Indica-dominant hybrid known for extraordinary resin production and a cookies-and-cream dessert terpene profile. Widely used in modern breeding programs.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sour-apple-gelato",
+      "status": "stub",
+      "name": "Sour Apple Gelato",
+      "breeder": [
+        {
+          "name": "Unknown",
+          "country": "US",
+          "type": "private"
+        }
+      ],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": null,
+      "tags": [],
+      "description": "A Gelato-lineage hybrid selected for sour apple terpenes. Used by CopyCat Genetix as the stud side of the Sour Apple Runtz cross.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "cotton-candy-crunch",
+      "status": "stub",
+      "name": "Cotton Candy Crunch",
+      "breeder": [
+        {
+          "name": "CopyCat Genetix",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": null,
+      "tags": ["feminized"],
+      "description": "A proprietary CopyCat Genetix selection used as a reversal parent in Cotton Candy Runtz. Specific genetic lineage not publicly disclosed.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "gelonade-clone",
+      "status": "stub",
+      "name": "Gelonade (Original Clone)",
+      "breeder": [
+        {
+          "name": "Connected Cannabis Co",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": null,
+      "tags": [],
+      "description": "Gelato 41 × Lemon Tree. Original clone by Connected Cannabis Co. A Sativa-dominant hybrid with an intensely citrus, melon-forward terpene profile. CopyCat Genetix reversed this clone to produce their Gelonade S1 feminized release.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "pink-panties",
+      "status": "stub",
+      "name": "Pink Panties",
+      "breeder": [
+        {
+          "name": "Unknown",
+          "country": "US",
+          "type": "private"
+        }
+      ],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": null,
+      "tags": [],
+      "description": "Burmese Kush × Florida Kush. An Indica-dominant cultivar with a floral, fruity character. Used by CopyCat Genetix as the female clone parent in the Pink Runtz cross.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "cc-mr-big-stuff",
+      "status": "complete",
+      "name": "Mr. Big Stuff",
+      "breeder": [
+        {
+          "name": "CopyCat Genetix",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 31, "max": 37 },
+      "cbd": { "min": 1, "max": 2 },
+      "terpenes": ["Caryophyllene", "Limonene", "Linalool"],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": ["mac1", "gary-payton"]
+      },
+      "effects": ["euphoric", "relaxed", "happy", "creative", "uplifted"],
+      "flavors": ["sweet", "spicy", "earthy", "diesel"],
+      "flowering_time_weeks": {
+        "indoor": { "min": 7, "max": 8 },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": ["high-thc", "feminized"],
+      "description": "An S1 feminized selection by CopyCat Genetix, created by crossing their MAC 1 clone with a Gary Payton reversal — two of the most sought-after US cultivars. Known for towering THC content (31–37%), exceptional frost coverage, and creamy, spiced gelato-fuel terpenes. The breeder describes it as the 'highest yielding frost monster yet.' Flowering time 7–8 weeks. Featured in numerous grow diaries and competition circles.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "cc-pink-runtz",
+      "status": "complete",
+      "name": "Pink Runtz",
+      "breeder": [
+        {
+          "name": "CopyCat Genetix",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 26, "max": 30 },
+      "cbd": { "min": 1, "max": 2 },
+      "terpenes": ["Limonene", "Caryophyllene", "Linalool"],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": ["pink-panties", "runtz"]
+      },
+      "effects": ["euphoric", "happy", "relaxed", "uplifted", "creative"],
+      "flavors": ["sweet", "floral", "berry", "citrus"],
+      "flowering_time_weeks": {
+        "indoor": { "min": 8, "max": 9 },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": ["high-thc", "feminized"],
+      "description": "CopyCat Genetix's take on Pink Runtz, created in-house by crossing a Pink Panties clone to a Runtz reversal and selecting the keeper phenotype for S1 feminization. Boasts over 30% total cannabinoids with THC in the 26–30% range. The cross delivers the candy-sweet fruitiness of Runtz elevated by Pink Panties' floral, berry character — a buzzy, happiness-inducing effect profile.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "cc-cherry-runtz",
+      "status": "complete",
+      "name": "Cherry Runtz",
+      "breeder": [
+        {
+          "name": "CopyCat Genetix",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 29, "max": 32 },
+      "cbd": { "min": 1, "max": 2 },
+      "terpenes": ["Limonene", "Caryophyllene", "Myrcene"],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": ["runtz", "cherry-cookies"]
+      },
+      "effects": ["euphoric", "happy", "relaxed", "creative", "uplifted"],
+      "flavors": ["sweet", "berry", "earthy", "diesel"],
+      "flowering_time_weeks": {
+        "indoor": { "min": 8, "max": 9 },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": ["high-thc"],
+      "description": "A cross of the original Runtz clone with a Cherry Cookies F4 stud, developed by CopyCat Genetix. Terpene profile of cherries, candy, and pure gas. THC 29–32%, with over 30% total cannabinoids. Flowering 8–9 weeks with above-average yields.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "cc-mr-big-runtz",
+      "status": "complete",
+      "name": "Mr. Big Runtz",
+      "breeder": [
+        {
+          "name": "CopyCat Genetix",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 31, "max": 35 },
+      "cbd": { "min": 1, "max": 2 },
+      "terpenes": ["Limonene", "Caryophyllene", "Myrcene"],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": ["runtz", "cc-mr-big-stuff"]
+      },
+      "effects": ["euphoric", "happy", "relaxed", "creative", "uplifted"],
+      "flavors": ["sweet", "berry", "earthy", "diesel"],
+      "flowering_time_weeks": {
+        "indoor": { "min": 8, "max": 9 },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": ["high-thc", "feminized"],
+      "description": "CopyCat Genetix's evolution of the Runtz line: the original Runtz clone crossed to a Mr. Big Stuff male stud, then hunted and reversed in-house into feminized S1 seeds. Terpene profile of candy, berry, funk, and gas. THC 31–35%, large yields, 8–9 week flower. Brings Runtz and Mr. Big Stuff to a new potency level.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "cc-oreo-big-stuff",
+      "status": "complete",
+      "name": "Oreo Big Stuff",
+      "breeder": [
+        {
+          "name": "CopyCat Genetix",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 37, "max": 41 },
+      "cbd": { "min": 1, "max": 2 },
+      "terpenes": ["Caryophyllene", "Limonene", "Linalool"],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": ["cc-mr-big-stuff", "oreoz"]
+      },
+      "effects": ["relaxed", "euphoric", "sleepy", "happy", "hungry"],
+      "flavors": ["sweet", "spicy", "earthy", "floral"],
+      "flowering_time_weeks": {
+        "indoor": { "min": 7, "max": 8 },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": ["high-thc", "feminized", "award-winner"],
+      "description": "As seen in High Times. CopyCat Genetix crossed their Mr. Big Stuff cut (MAC 1 × Gary Payton) with an Oreoz #3 reversal, hunting the keeper phenotype in-house before self-feminizing into S1 seeds. Indica-dominant, this is a heavy-hitting frost monster with epic bag appeal — candy, gas, strawberry, vanilla cream terpenes. THC 37–41% (breeder-reported), over 42% total cannabinoids. Flowering 7–8 weeks.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "cc-sour-apple-runtz",
+      "status": "complete",
+      "name": "Sour Apple Runtz",
+      "breeder": [
+        {
+          "name": "CopyCat Genetix",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 31, "max": 33 },
+      "cbd": { "min": 1, "max": 2 },
+      "terpenes": ["Limonene", "Caryophyllene", "Terpinolene"],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": ["runtz", "sour-apple-gelato"]
+      },
+      "effects": ["euphoric", "uplifted", "creative", "energetic", "relaxed"],
+      "flavors": ["citrus", "sweet", "spicy", "diesel"],
+      "flowering_time_weeks": {
+        "indoor": { "min": 8, "max": 9 },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": ["high-thc", "feminized"],
+      "description": "Original Runtz clone crossed with Sour Apple Gelato, bred, hunted, and reversed in-house by CopyCat Genetix to produce feminized S1 seeds. Terpene profile leans sharply sour — sour apples, gas, fuel, funk. THC 31–33%, over 34% total cannabinoids. Large yields in 8–9 weeks.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "cc-cotton-candy-runtz",
+      "status": "complete",
+      "name": "Cotton Candy Runtz",
+      "breeder": [
+        {
+          "name": "CopyCat Genetix",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 27, "max": 34 },
+      "cbd": { "min": 1, "max": 2 },
+      "terpenes": ["Limonene", "Myrcene", "Caryophyllene"],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": ["runtz", "cotton-candy-crunch"]
+      },
+      "effects": ["euphoric", "happy", "relaxed", "creative", "uplifted"],
+      "flavors": ["sweet", "floral", "earthy", "diesel"],
+      "flowering_time_weeks": {
+        "indoor": { "min": 8, "max": 9 },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": ["high-thc", "feminized"],
+      "description": "Runtz clone crossed with a Cotton Candy Crunch reversal, hunted in-house and feminized by CopyCat Genetix. Terpene profile: cotton candy, candy, gas. THC 27–34%, over 30% total cannabinoids, above-average yield, 8–9 week flower.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "cc-mac-bx2",
+      "status": "complete",
+      "name": "MAC BX2",
+      "breeder": [
+        {
+          "name": "CopyCat Genetix",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 34, "max": 39 },
+      "cbd": { "min": 1, "max": 2 },
+      "terpenes": ["Caryophyllene", "Myrcene", "Limonene"],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": ["mac1"]
+      },
+      "effects": ["euphoric", "creative", "relaxed", "uplifted", "focused"],
+      "flavors": ["spicy", "earthy", "sweet", "herbal"],
+      "flowering_time_weeks": {
+        "indoor": { "min": 8, "max": 9 },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": ["high-thc"],
+      "description": "CopyCat Genetix's MAC backcross program: a MAC F2 female backcrossed to the original MAC F1 clone (CopyCat's own cut) to produce the MAC BX1, then that BX1 was again crossed to the MAC F1 stud to stabilise the MAC BX2 line. Focus: a stable, vigorous, frost-monster expression of MAC that surpasses the original Capulator selection in yield and vigor. Terpenes: spice, earthy, hints of cookie/kush. THC 34–39%, 8–9 week flower.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "cc-gelonade",
+      "status": "complete",
+      "name": "Gelonade",
+      "breeder": [
+        {
+          "name": "CopyCat Genetix",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": { "min": 25, "max": 31 },
+      "cbd": { "min": 1, "max": 2 },
+      "terpenes": ["Limonene", "Terpinolene", "Myrcene"],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": ["gelonade-clone"]
+      },
+      "effects": ["euphoric", "uplifted", "creative", "energetic", "focused"],
+      "flavors": ["citrus", "sweet", "tropical", "earthy"],
+      "flowering_time_weeks": {
+        "indoor": { "min": 8, "max": 9 },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": ["high-thc", "feminized"],
+      "description": "CopyCat Genetix reversed the famous Gelonade clone (Gelato 41 × Lemon Tree, by Connected Cannabis Co) to produce feminized S1 seeds of this coveted Sativa-dominant cultivar. Melon, fruit, and hints of OG gas dominate the terpene profile. THC 25–31%, above-average yields in 8–9 weeks indoors.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
     }
   ]
 }
