@@ -121,16 +121,19 @@ strains.forEach((strain) => {
     });
   }
 
-  // --- THC / CBD (single numeric average or null) ---
-  const checkPct = (field) => {
+  // --- THC / CBD ({min, max} objects) ---
+  const checkRange = (field) => {
     const v = strain[field];
-    if (v !== null && v !== undefined && !isNum(v))
-      err(id, `"${field}" must be a number (0–100) or null — got: ${JSON.stringify(v)}`);
-    if (isNum(v) && (v < 0 || v > 100))
-      err(id, `"${field}" value ${v} is out of range 0–100`);
+    if (!isObj(v)) return err(id, `"${field}" must be an object with min/max`);
+    if (v.min !== null && (!isNum(v.min) || v.min < 0 || v.min > 100))
+      err(id, `"${field}.min" must be a number 0–100 or null`);
+    if (v.max !== null && (!isNum(v.max) || v.max < 0 || v.max > 100))
+      err(id, `"${field}.max" must be a number 0–100 or null`);
+    if (v.min !== null && v.max !== null && v.min > v.max)
+      err(id, `"${field}.min" (${v.min}) must be ≤ max (${v.max})`);
   };
-  checkPct("thc");
-  checkPct("cbd");
+  checkRange("thc");
+  checkRange("cbd");
 
   // --- Terpenes ---
   if (!isArr(strain.terpenes))
