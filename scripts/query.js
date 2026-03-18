@@ -14,8 +14,8 @@
  *   --type    <value>   Filter by genetics type    (e.g. --type Indica)
  *   --difficulty <val>  Filter by difficulty       (Easy | Moderate | Hard)
  *   --status  <value>   Filter by status           (complete | stub)
- *   --thc-min <num>     Min THC lower bound        (e.g. --thc-min 20)
- *   --thc-max <num>     Max THC upper bound        (e.g. --thc-max 25)
+ *   --thc-min <num>     Min THC (avg) threshold    (e.g. --thc-min 20)
+ *   --thc-max <num>     Max THC (avg) threshold    (e.g. --thc-max 25)
  *   --cbd-min <num>     Min CBD lower bound
  *   --cbd-max <num>     Max CBD upper bound
  *   --id      <slug>    Exact ID match
@@ -72,10 +72,10 @@ Options:
   --type <v>        Genetics type (case-insensitive)
   --difficulty <v>  Easy | Moderate | Hard
   --status <v>      complete | stub
-  --thc-min <n>     THC min.min lower bound
-  --thc-max <n>     THC max.max upper bound
-  --cbd-min <n>     CBD min.min lower bound
-  --cbd-max <n>     CBD max.max upper bound
+  --thc-min <n>     THC avg lower bound
+  --thc-max <n>     THC avg upper bound
+  --cbd-min <n>     CBD avg lower bound
+  --cbd-max <n>     CBD avg upper bound
   --id <slug>       Exact ID lookup
   --json            Output as raw JSON
   --fields <f,..>   Comma-separated fields for table display
@@ -124,10 +124,10 @@ let results = strains.filter((s) => {
   const cbdMin = numArg("cbd-min");
   const cbdMax = numArg("cbd-max");
 
-  if (thcMin !== undefined && (s.thc?.min ?? -Infinity) < thcMin) return false;
-  if (thcMax !== undefined && (s.thc?.max ??  Infinity) > thcMax) return false;
-  if (cbdMin !== undefined && (s.cbd?.min ?? -Infinity) < cbdMin) return false;
-  if (cbdMax !== undefined && (s.cbd?.max ??  Infinity) > cbdMax) return false;
+  if (thcMin !== undefined && (s.thc ?? -Infinity) < thcMin) return false;
+  if (thcMax !== undefined && (s.thc ??  Infinity) > thcMax) return false;
+  if (cbdMin !== undefined && (s.cbd ?? -Infinity) < cbdMin) return false;
+  if (cbdMax !== undefined && (s.cbd ??  Infinity) > cbdMax) return false;
 
   return true;
 });
@@ -152,8 +152,8 @@ const fieldList = args.fields
 
 function getField(strain, field) {
   switch (field) {
-    case "thc":           return strain.thc?.min != null ? `${strain.thc.min}–${strain.thc.max}%` : "—";
-    case "cbd":           return strain.cbd?.min != null ? `${strain.cbd.min}–${strain.cbd.max}%` : "—";
+    case "thc":           return strain.thc != null ? `${strain.thc}%` : "—";
+    case "cbd":           return strain.cbd != null ? `${strain.cbd}%` : "—";
     case "genetics.type": return strain.genetics?.type ?? "—";
     case "tags":          return (strain.tags ?? []).join(", ") || "—";
     case "effects":       return (strain.effects ?? []).join(", ") || "—";
