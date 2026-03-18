@@ -5285,8 +5285,14 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5295,12 +5301,24 @@
       "effects": [],
       "flavors": [],
       "flowering_time_weeks": {
-        "indoor": { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": null,
-      "tags": ["high-thc", "feminized"],
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
       "description": "Zkittlez × Gelato. A celebrated hybrid from Cookies bred in California, renowned for its candy-sweet fruit aroma, dense trichome coverage, and balanced high. A foundational parent in countless modern hybrids.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5316,8 +5334,14 @@
           "type": "private"
         }
       ],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5326,12 +5350,24 @@
       "effects": [],
       "flavors": [],
       "flowering_time_weeks": {
-        "indoor": { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": null,
-      "tags": ["high-thc", "classic"],
+      "tags": [
+        "high-thc",
+        "classic"
+      ],
       "description": "Alien Cookies F2 × (Colombian × Starfighter). Created by breeder Capulator. One of the most coveted clone-only cultivars in the US market, prized for frosty appearance, balanced hybrid effects, and creamy, spiced terpenes.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5347,8 +5383,14 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5357,12 +5399,23 @@
       "effects": [],
       "flavors": [],
       "flowering_time_weeks": {
-        "indoor": { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": null,
-      "tags": ["high-thc"],
+      "tags": [
+        "high-thc"
+      ],
       "description": "The Y × Snowman (Cookies). A high-potency hybrid from Cookies, named in collaboration with the NBA Hall of Famer. Known for fuel and spicy terpenes with a powerful euphoric effect.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5378,8 +5431,14 @@
           "type": "private"
         }
       ],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5388,10 +5447,19 @@
       "effects": [],
       "flavors": [],
       "flowering_time_weeks": {
-        "indoor": { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": null,
       "tags": [],
       "description": "A cherry-forward GSC-lineage hybrid used as a stud parent in CopyCat Genetix's Cherry Runtz cross. Specific breeder origin not publicly confirmed.",
@@ -5409,8 +5477,14 @@
           "type": "private"
         }
       ],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Indica-dominant Hybrid",
@@ -5419,12 +5493,23 @@
       "effects": [],
       "flavors": [],
       "flowering_time_weeks": {
-        "indoor": { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": null,
-      "tags": ["high-thc"],
+      "tags": [
+        "high-thc"
+      ],
       "description": "Cookies and Cream × Secret Weapon. An Indica-dominant hybrid known for extraordinary resin production and a cookies-and-cream dessert terpene profile. Widely used in modern breeding programs.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5440,8 +5525,14 @@
           "type": "private"
         }
       ],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5450,10 +5541,19 @@
       "effects": [],
       "flavors": [],
       "flowering_time_weeks": {
-        "indoor": { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": null,
       "tags": [],
       "description": "A Gelato-lineage hybrid selected for sour apple terpenes. Used by CopyCat Genetix as the stud side of the Sour Apple Runtz cross.",
@@ -5471,8 +5571,14 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5481,12 +5587,23 @@
       "effects": [],
       "flavors": [],
       "flowering_time_weeks": {
-        "indoor": { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": null,
-      "tags": ["feminized"],
+      "tags": [
+        "feminized"
+      ],
       "description": "A proprietary CopyCat Genetix selection used as a reversal parent in Cotton Candy Runtz. Specific genetic lineage not publicly disclosed.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5502,8 +5619,14 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Sativa-dominant Hybrid",
@@ -5512,10 +5635,19 @@
       "effects": [],
       "flavors": [],
       "flowering_time_weeks": {
-        "indoor": { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": null,
       "tags": [],
       "description": "Gelato 41 × Lemon Tree. Original clone by Connected Cannabis Co. A Sativa-dominant hybrid with an intensely citrus, melon-forward terpene profile. CopyCat Genetix reversed this clone to produce their Gelonade S1 feminized release.",
@@ -5533,8 +5665,14 @@
           "type": "private"
         }
       ],
-      "thc": { "min": null, "max": null },
-      "cbd": { "min": null, "max": null },
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Indica-dominant Hybrid",
@@ -5543,10 +5681,19 @@
       "effects": [],
       "flavors": [],
       "flowering_time_weeks": {
-        "indoor": { "min": null, "max": null },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": null,
       "tags": [],
       "description": "Burmese Kush × Florida Kush. An Indica-dominant cultivar with a floral, fruity character. Used by CopyCat Genetix as the female clone parent in the Pink Runtz cross.",
@@ -5564,22 +5711,58 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 31, "max": 37 },
-      "cbd": { "min": 1, "max": 2 },
-      "terpenes": ["Caryophyllene", "Limonene", "Linalool"],
+      "thc": {
+        "min": 31,
+        "max": 37
+      },
+      "cbd": {
+        "min": 1,
+        "max": 2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Linalool"
+      ],
       "genetics": {
         "type": "Hybrid",
-        "parents": ["mac1", "gary-payton"]
+        "parents": [
+          "mac1",
+          "gary-payton"
+        ]
       },
-      "effects": ["euphoric", "relaxed", "happy", "creative", "uplifted"],
-      "flavors": ["sweet", "spicy", "earthy", "diesel"],
+      "effects": [
+        "euphoric",
+        "relaxed",
+        "happy",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "spicy",
+        "earthy",
+        "diesel"
+      ],
       "flowering_time_weeks": {
-        "indoor": { "min": 7, "max": 8 },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": "Moderate",
-      "tags": ["high-thc", "feminized"],
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
       "description": "An S1 feminized selection by CopyCat Genetix, created by crossing their MAC 1 clone with a Gary Payton reversal — two of the most sought-after US cultivars. Known for towering THC content (31–37%), exceptional frost coverage, and creamy, spiced gelato-fuel terpenes. The breeder describes it as the 'highest yielding frost monster yet.' Flowering time 7–8 weeks. Featured in numerous grow diaries and competition circles.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5595,22 +5778,58 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 26, "max": 30 },
-      "cbd": { "min": 1, "max": 2 },
-      "terpenes": ["Limonene", "Caryophyllene", "Linalool"],
+      "thc": {
+        "min": 26,
+        "max": 30
+      },
+      "cbd": {
+        "min": 1,
+        "max": 2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Linalool"
+      ],
       "genetics": {
         "type": "Hybrid",
-        "parents": ["pink-panties", "runtz"]
+        "parents": [
+          "pink-panties",
+          "runtz"
+        ]
       },
-      "effects": ["euphoric", "happy", "relaxed", "uplifted", "creative"],
-      "flavors": ["sweet", "floral", "berry", "citrus"],
+      "effects": [
+        "euphoric",
+        "happy",
+        "relaxed",
+        "uplifted",
+        "creative"
+      ],
+      "flavors": [
+        "sweet",
+        "floral",
+        "berry",
+        "citrus"
+      ],
       "flowering_time_weeks": {
-        "indoor": { "min": 8, "max": 9 },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": "Moderate",
-      "tags": ["high-thc", "feminized"],
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
       "description": "CopyCat Genetix's take on Pink Runtz, created in-house by crossing a Pink Panties clone to a Runtz reversal and selecting the keeper phenotype for S1 feminization. Boasts over 30% total cannabinoids with THC in the 26–30% range. The cross delivers the candy-sweet fruitiness of Runtz elevated by Pink Panties' floral, berry character — a buzzy, happiness-inducing effect profile.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5626,22 +5845,57 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 29, "max": 32 },
-      "cbd": { "min": 1, "max": 2 },
-      "terpenes": ["Limonene", "Caryophyllene", "Myrcene"],
+      "thc": {
+        "min": 29,
+        "max": 32
+      },
+      "cbd": {
+        "min": 1,
+        "max": 2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Myrcene"
+      ],
       "genetics": {
         "type": "Hybrid",
-        "parents": ["runtz", "cherry-cookies"]
+        "parents": [
+          "runtz",
+          "cherry-cookies"
+        ]
       },
-      "effects": ["euphoric", "happy", "relaxed", "creative", "uplifted"],
-      "flavors": ["sweet", "berry", "earthy", "diesel"],
+      "effects": [
+        "euphoric",
+        "happy",
+        "relaxed",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "berry",
+        "earthy",
+        "diesel"
+      ],
       "flowering_time_weeks": {
-        "indoor": { "min": 8, "max": 9 },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": "Moderate",
-      "tags": ["high-thc"],
+      "tags": [
+        "high-thc"
+      ],
       "description": "A cross of the original Runtz clone with a Cherry Cookies F4 stud, developed by CopyCat Genetix. Terpene profile of cherries, candy, and pure gas. THC 29–32%, with over 30% total cannabinoids. Flowering 8–9 weeks with above-average yields.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5657,22 +5911,58 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 31, "max": 35 },
-      "cbd": { "min": 1, "max": 2 },
-      "terpenes": ["Limonene", "Caryophyllene", "Myrcene"],
+      "thc": {
+        "min": 31,
+        "max": 35
+      },
+      "cbd": {
+        "min": 1,
+        "max": 2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Myrcene"
+      ],
       "genetics": {
         "type": "Hybrid",
-        "parents": ["runtz", "cc-mr-big-stuff"]
+        "parents": [
+          "runtz",
+          "cc-mr-big-stuff"
+        ]
       },
-      "effects": ["euphoric", "happy", "relaxed", "creative", "uplifted"],
-      "flavors": ["sweet", "berry", "earthy", "diesel"],
+      "effects": [
+        "euphoric",
+        "happy",
+        "relaxed",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "berry",
+        "earthy",
+        "diesel"
+      ],
       "flowering_time_weeks": {
-        "indoor": { "min": 8, "max": 9 },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": "Moderate",
-      "tags": ["high-thc", "feminized"],
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
       "description": "CopyCat Genetix's evolution of the Runtz line: the original Runtz clone crossed to a Mr. Big Stuff male stud, then hunted and reversed in-house into feminized S1 seeds. Terpene profile of candy, berry, funk, and gas. THC 31–35%, large yields, 8–9 week flower. Brings Runtz and Mr. Big Stuff to a new potency level.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5688,22 +5978,59 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 37, "max": 41 },
-      "cbd": { "min": 1, "max": 2 },
-      "terpenes": ["Caryophyllene", "Limonene", "Linalool"],
+      "thc": {
+        "min": 37,
+        "max": 41
+      },
+      "cbd": {
+        "min": 1,
+        "max": 2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Linalool"
+      ],
       "genetics": {
         "type": "Indica-dominant Hybrid",
-        "parents": ["cc-mr-big-stuff", "oreoz"]
+        "parents": [
+          "cc-mr-big-stuff",
+          "oreoz"
+        ]
       },
-      "effects": ["relaxed", "euphoric", "sleepy", "happy", "hungry"],
-      "flavors": ["sweet", "spicy", "earthy", "floral"],
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "sleepy",
+        "happy",
+        "hungry"
+      ],
+      "flavors": [
+        "sweet",
+        "spicy",
+        "earthy",
+        "floral"
+      ],
       "flowering_time_weeks": {
-        "indoor": { "min": 7, "max": 8 },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": "Moderate",
-      "tags": ["high-thc", "feminized", "award-winner"],
+      "tags": [
+        "high-thc",
+        "feminized",
+        "award-winner"
+      ],
       "description": "As seen in High Times. CopyCat Genetix crossed their Mr. Big Stuff cut (MAC 1 × Gary Payton) with an Oreoz #3 reversal, hunting the keeper phenotype in-house before self-feminizing into S1 seeds. Indica-dominant, this is a heavy-hitting frost monster with epic bag appeal — candy, gas, strawberry, vanilla cream terpenes. THC 37–41% (breeder-reported), over 42% total cannabinoids. Flowering 7–8 weeks.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5719,22 +6046,58 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 31, "max": 33 },
-      "cbd": { "min": 1, "max": 2 },
-      "terpenes": ["Limonene", "Caryophyllene", "Terpinolene"],
+      "thc": {
+        "min": 31,
+        "max": 33
+      },
+      "cbd": {
+        "min": 1,
+        "max": 2
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Terpinolene"
+      ],
       "genetics": {
         "type": "Hybrid",
-        "parents": ["runtz", "sour-apple-gelato"]
+        "parents": [
+          "runtz",
+          "sour-apple-gelato"
+        ]
       },
-      "effects": ["euphoric", "uplifted", "creative", "energetic", "relaxed"],
-      "flavors": ["citrus", "sweet", "spicy", "diesel"],
+      "effects": [
+        "euphoric",
+        "uplifted",
+        "creative",
+        "energetic",
+        "relaxed"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet",
+        "spicy",
+        "diesel"
+      ],
       "flowering_time_weeks": {
-        "indoor": { "min": 8, "max": 9 },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": "Moderate",
-      "tags": ["high-thc", "feminized"],
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
       "description": "Original Runtz clone crossed with Sour Apple Gelato, bred, hunted, and reversed in-house by CopyCat Genetix to produce feminized S1 seeds. Terpene profile leans sharply sour — sour apples, gas, fuel, funk. THC 31–33%, over 34% total cannabinoids. Large yields in 8–9 weeks.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5750,22 +6113,58 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 27, "max": 34 },
-      "cbd": { "min": 1, "max": 2 },
-      "terpenes": ["Limonene", "Myrcene", "Caryophyllene"],
+      "thc": {
+        "min": 27,
+        "max": 34
+      },
+      "cbd": {
+        "min": 1,
+        "max": 2
+      },
+      "terpenes": [
+        "Limonene",
+        "Myrcene",
+        "Caryophyllene"
+      ],
       "genetics": {
         "type": "Hybrid",
-        "parents": ["runtz", "cotton-candy-crunch"]
+        "parents": [
+          "runtz",
+          "cotton-candy-crunch"
+        ]
       },
-      "effects": ["euphoric", "happy", "relaxed", "creative", "uplifted"],
-      "flavors": ["sweet", "floral", "earthy", "diesel"],
+      "effects": [
+        "euphoric",
+        "happy",
+        "relaxed",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "floral",
+        "earthy",
+        "diesel"
+      ],
       "flowering_time_weeks": {
-        "indoor": { "min": 8, "max": 9 },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": "Moderate",
-      "tags": ["high-thc", "feminized"],
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
       "description": "Runtz clone crossed with a Cotton Candy Crunch reversal, hunted in-house and feminized by CopyCat Genetix. Terpene profile: cotton candy, candy, gas. THC 27–34%, over 30% total cannabinoids, above-average yield, 8–9 week flower.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5781,22 +6180,56 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 34, "max": 39 },
-      "cbd": { "min": 1, "max": 2 },
-      "terpenes": ["Caryophyllene", "Myrcene", "Limonene"],
+      "thc": {
+        "min": 34,
+        "max": 39
+      },
+      "cbd": {
+        "min": 1,
+        "max": 2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Limonene"
+      ],
       "genetics": {
         "type": "Hybrid",
-        "parents": ["mac1"]
+        "parents": [
+          "mac1"
+        ]
       },
-      "effects": ["euphoric", "creative", "relaxed", "uplifted", "focused"],
-      "flavors": ["spicy", "earthy", "sweet", "herbal"],
+      "effects": [
+        "euphoric",
+        "creative",
+        "relaxed",
+        "uplifted",
+        "focused"
+      ],
+      "flavors": [
+        "spicy",
+        "earthy",
+        "sweet",
+        "herbal"
+      ],
       "flowering_time_weeks": {
-        "indoor": { "min": 8, "max": 9 },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": "Moderate",
-      "tags": ["high-thc"],
+      "tags": [
+        "high-thc"
+      ],
       "description": "CopyCat Genetix's MAC backcross program: a MAC F2 female backcrossed to the original MAC F1 clone (CopyCat's own cut) to produce the MAC BX1, then that BX1 was again crossed to the MAC F1 stud to stabilise the MAC BX2 line. Focus: a stable, vigorous, frost-monster expression of MAC that surpasses the original Capulator selection in yield and vigor. Terpenes: spice, earthy, hints of cookie/kush. THC 34–39%, 8–9 week flower.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
@@ -5812,23 +6245,1164 @@
           "type": "commercial"
         }
       ],
-      "thc": { "min": 25, "max": 31 },
-      "cbd": { "min": 1, "max": 2 },
-      "terpenes": ["Limonene", "Terpinolene", "Myrcene"],
+      "thc": {
+        "min": 25,
+        "max": 31
+      },
+      "cbd": {
+        "min": 1,
+        "max": 2
+      },
+      "terpenes": [
+        "Limonene",
+        "Terpinolene",
+        "Myrcene"
+      ],
       "genetics": {
         "type": "Sativa-dominant Hybrid",
-        "parents": ["gelonade-clone"]
+        "parents": [
+          "gelonade-clone"
+        ]
       },
-      "effects": ["euphoric", "uplifted", "creative", "energetic", "focused"],
-      "flavors": ["citrus", "sweet", "tropical", "earthy"],
+      "effects": [
+        "euphoric",
+        "uplifted",
+        "creative",
+        "energetic",
+        "focused"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet",
+        "tropical",
+        "earthy"
+      ],
       "flowering_time_weeks": {
-        "indoor": { "min": 8, "max": 9 },
-        "outdoor": { "min": null, "max": null }
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
       },
-      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
       "difficulty": "Moderate",
-      "tags": ["high-thc", "feminized"],
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
       "description": "CopyCat Genetix reversed the famous Gelonade clone (Gelato 41 × Lemon Tree, by Connected Cannabis Co) to produce feminized S1 seeds of this coveted Sativa-dominant cultivar. Melon, fruit, and hints of OG gas dominate the terpene profile. THC 25–31%, above-average yields in 8–9 weeks indoors.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "gelato-33",
+      "status": "stub",
+      "name": "Gelato 33",
+      "breeder": [
+        {
+          "name": "Cookie Fam Genetics",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Parent stub — Gelato 33 (Larry Bird) by Cookie Fam Genetics (Sunset Sherbet × Thin Mint GSC). One of the most iconic phenos of the Gelato line.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "gg4",
+      "status": "stub",
+      "name": "GG4",
+      "breeder": [
+        {
+          "name": "GG Strains",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [
+        "award-winner",
+        "classic"
+      ],
+      "description": "Parent stub — GG4 (Gorilla Glue #4) by GG Strains. A legendary award-winning hybrid famous for its heavy resin production and potent diesel-chocolate terpene profile.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "lemon-og",
+      "status": "stub",
+      "name": "Lemon OG",
+      "breeder": [
+        {
+          "name": "DNA Genetics",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Parent stub — Lemon OG by DNA Genetics, a lemon-forward OG Kush variant used in various citrus hybrid crosses.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-black-banana",
+      "status": "stub",
+      "name": "Black Banana",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Parent stub — Black Banana by Solfire Gardens, used in Bahama Mama and Double Tap.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-the-don-mega",
+      "status": "stub",
+      "name": "The Don Mega",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "gmo",
+          "sf-black-banana"
+        ]
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Parent stub — The Don Mega by Solfire Gardens (GMO × Black Banana). Award-winning influential male line, 3rd place at Michigan Cannabis Cup.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-mind-flayer",
+      "status": "stub",
+      "name": "Mind Flayer",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "sf-double-tap",
+          "sf-why-u-gelly"
+        ]
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Parent stub — Mind Flayer by Solfire Gardens (Double Tap × Why U Gelly). Known for extreme resin density and fruit-gas terpene profile.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-last-supper",
+      "status": "stub",
+      "name": "Last Supper",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Parent stub — Last Supper by Solfire Gardens, used as a parent in Lemon Elixir and Pineapple Pucker.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-udder-madness",
+      "status": "stub",
+      "name": "Udder Madness",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Parent stub — Udder Madness by Solfire Gardens (Bitties × Mind Flayer). Used in Lung Buster and Gas Guzzler.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-gastro-pop",
+      "status": "stub",
+      "name": "Gastro Pop",
+      "breeder": [
+        {
+          "name": "Compound Genetics",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Parent stub — Gastro Pop by Compound Genetics (Apricot Gelato × Grape Gas), used as parent in Solfire's Gas Guzzler.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-sundae-driver",
+      "status": "stub",
+      "name": "Sundae Driver",
+      "breeder": [
+        {
+          "name": "Fruity Real Genetics",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
+      "terpenes": [],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": null,
+          "max": null
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": null,
+      "tags": [],
+      "description": "Parent stub — Sundae Driver by Fruity Real Genetics (FPOG × Grape Pie). Used as a parent in Solfire's Hood Candyz.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-bahama-mama",
+      "status": "complete",
+      "name": "Bahama Mama",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 28
+      },
+      "cbd": {
+        "min": 0,
+        "max": 1
+      },
+      "terpenes": [
+        "Myrcene",
+        "Limonene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "tropicana-cookies",
+          "sf-black-banana"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "uplifted",
+        "creative",
+        "happy"
+      ],
+      "flavors": [
+        "citrus",
+        "berry",
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized",
+        "high-thc"
+      ],
+      "description": "Solfire Gardens' flagship cultivar. Bahama Mama shows cookie dominance with phenos ranging from citrus to sweet cookie; colors up well late in flower. Loves to be schwazzed and lollipopped; works great in a trellis-style garden. Aroma: Tangerine Berry. Flowering: 56–63 days. Yield: Medium/Heavy.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-why-u-gelly",
+      "status": "complete",
+      "name": "Why U Gelly",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 26,
+        "max": 30
+      },
+      "cbd": {
+        "min": 0,
+        "max": 1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "gelato-33",
+          "sf-the-don-mega"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "relaxed",
+        "uplifted",
+        "happy"
+      ],
+      "flavors": [
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized",
+        "high-thc"
+      ],
+      "description": "Solfire Gardens' first feminized reversal. Why U Gelly (aka Gelly) combines Gelato 33 and The Don Mega for creamy, gassy aromas and significant frost production. Heavy yielder. Flowering: 53–63 days.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-double-tap",
+      "status": "complete",
+      "name": "Double Tap",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 25,
+        "max": 29
+      },
+      "cbd": {
+        "min": 0,
+        "max": 1
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "gg4",
+          "sf-black-banana"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "uplifted",
+        "focused",
+        "happy"
+      ],
+      "flavors": [
+        "diesel",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc"
+      ],
+      "description": "Double Tap packs on frost early. Brings the chem funk of the legendary GG4 and pairs it with the frost and color of the Black Banana. A must-have in any garden. Aroma: High Pitch Gas. Flowering: 60–70 days. Yield: Medium/Heavy.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-miami-mami",
+      "status": "complete",
+      "name": "Miami Mami",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 28
+      },
+      "cbd": {
+        "min": 0,
+        "max": 1
+      },
+      "terpenes": [
+        "Myrcene",
+        "Limonene",
+        "Terpinolene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "sf-mind-flayer",
+          "sf-bahama-mama"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "happy",
+        "euphoric",
+        "uplifted"
+      ],
+      "flavors": [
+        "tropical",
+        "citrus",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized"
+      ],
+      "description": "Miami Mami is a heavy, colorful hybrid from Solfire Gardens — not a single green pheno in the test. She is hearty, hefty, loves to eat, and puts on a show in late flower. Every plant displayed vivid coloration. Delivers tropical fruit aromas with earthy undertones.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-sol-sonic",
+      "status": "complete",
+      "name": "Sol Sonic",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 25,
+        "max": 30
+      },
+      "cbd": {
+        "min": 0,
+        "max": 1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Bisabolol"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "gary-payton",
+          "sf-mind-flayer"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "uplifted",
+        "creative",
+        "relaxed"
+      ],
+      "flavors": [
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "feminized",
+        "high-thc"
+      ],
+      "description": "Sol Sonic sports beautiful thin-shaped dark black fan leaves, so black they look iridescent. Her frost is wet to the touch, smelling like cocoa and shop-floor grease. Easy to grow — every pheno threw down dense, dank flowers. Crossing Gary Payton × Mind Flayer. Flowering: 56–63 days. Yield: Heavy.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-lung-buster",
+      "status": "complete",
+      "name": "Lung Buster",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 28
+      },
+      "cbd": {
+        "min": 0,
+        "max": 1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Humulene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "sf-the-don-mega",
+          "sf-udder-madness"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "relaxed",
+        "uplifted",
+        "hungry"
+      ],
+      "flavors": [
+        "diesel",
+        "earthy",
+        "spicy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 10
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized",
+        "high-thc"
+      ],
+      "description": "Lung Buster is a heavy-hitting hybrid combining The Don Mega × Udder Madness. Bold diesel, earth, and spice terpenes with fuel-forward intensity. Dense, trichome-coated buds ideal for both premium flower and extraction. THC: 22–28%. Flowering: 8–10 weeks. Yield: High.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-lemon-elixir",
+      "status": "complete",
+      "name": "Lemon Elixir",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 27
+      },
+      "cbd": {
+        "min": 0,
+        "max": 1
+      },
+      "terpenes": [
+        "Limonene",
+        "Terpinolene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "lemon-og",
+          "sf-last-supper"
+        ]
+      },
+      "effects": [
+        "happy",
+        "uplifted",
+        "euphoric",
+        "relaxed"
+      ],
+      "flavors": [
+        "lemon",
+        "citrus",
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 10
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "feminized"
+      ],
+      "description": "A zesty 50/50 hybrid crossing Lemon OG with Last Supper. Lemon Elixir produces vivid amber, green, and red coloration. High yield, indoor/outdoor versatile. Tropical citrus terpenes with a bright lemon-forward finish. Flowering: ~60 days.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-hood-candyz",
+      "status": "complete",
+      "name": "Hood Candyz",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 28
+      },
+      "cbd": {
+        "min": 0,
+        "max": 1
+      },
+      "terpenes": [
+        "Myrcene",
+        "Limonene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "sf-bahama-mama",
+          "sf-sundae-driver"
+        ]
+      },
+      "effects": [
+        "happy",
+        "euphoric",
+        "relaxed",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "berry"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized"
+      ],
+      "description": "Hood Candyz is a Solfire staple bred from Bahama Mama × Sundae Driver. Sweet candy and berry terpenes with creamy undertones. Widely used as a structural parent in Solfire's later crosses.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-block-monster",
+      "status": "complete",
+      "name": "Block Monster",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 29
+      },
+      "cbd": {
+        "min": 0,
+        "max": 1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "sf-mind-flayer",
+          "sf-hood-candyz"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "happy",
+        "euphoric",
+        "sleepy"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized",
+        "high-thc"
+      ],
+      "description": "Block Monster from Solfire Gardens combines Mind Flayer and Hood Candyz for a soothing body buzz wrapped in sweet candy aromas with an earthy gas backbone. Heavy frosted structure, ideal for relaxation.",
+      "created_at": "2026-03-18",
+      "updated_at": "2026-03-18"
+    },
+    {
+      "id": "sf-gas-guzzler",
+      "status": "complete",
+      "name": "Gas Guzzler",
+      "breeder": [
+        {
+          "name": "Solfire Gardens",
+          "country": "USA",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 23,
+        "max": 28
+      },
+      "cbd": {
+        "min": 0,
+        "max": 1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "sf-gastro-pop",
+          "sf-udder-madness"
+        ]
+      },
+      "effects": [
+        "euphoric",
+        "relaxed",
+        "uplifted"
+      ],
+      "flavors": [
+        "diesel",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": null,
+          "max": null
+        }
+      },
+      "yield": {
+        "indoor_g_m2": null,
+        "outdoor_g_plant": null
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized",
+        "high-thc"
+      ],
+      "description": "Gas Guzzler by Solfire Gardens crosses Gastro Pop (Apricot Gelato × Grape Gas) with Udder Madness for a pronounced diesel aroma and punchy fuel-forward terpene profile. Dense resinous buds. Flowering: ~65 days.",
       "created_at": "2026-03-18",
       "updated_at": "2026-03-18"
     }
