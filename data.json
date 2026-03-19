@@ -8030,6 +8030,2616 @@
       "description": "Intense sweet vanilla and earthy flavors. A potent indica-leaning cross causing happy relaxation and rest.",
       "created_at": "2026-03-19",
       "updated_at": "2026-03-19"
-    }
-  ]
-}
+    },
+    {
+      "id": "cereal-milk",
+      "status": "complete",
+      "name": "Cereal Milk",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "happy",
+        "relaxed",
+        "giggly",
+        "focused"
+      ],
+      "flavors": [
+        "sweet",
+        "berry"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 550
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Bred by Cookies Fam. Features a loud, sweet milk and ice cream flavor with an even, relaxing calm paired with a giggly euphoric overtone.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "gelato-41",
+      "status": "complete",
+      "name": "Gelato 41",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "euphoric",
+        "relaxed",
+        "creative"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy",
+        "citrus"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 550
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Famous deeply relaxing and creatively stimulating hybrid.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "london-pound-cake-75",
+      "status": "complete",
+      "name": "London Pound Cake 75",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 26,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "sleepy",
+        "relaxed",
+        "euphoric"
+      ],
+      "flavors": [
+        "sweet",
+        "lemon",
+        "berry"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 11
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 600
+      },
+      "difficulty": "Hard",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Indica-dominant hybrid offering a loud berry and lemon-sweet aroma with deep sleepy relaxation.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "cherry-pie",
+      "status": "complete",
+      "name": "Cherry Pie",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "happy",
+        "relaxed",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "berry",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 500
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "classic",
+        "feminized"
+      ],
+      "description": "A core foundation of the Cookies family, smelling of sweet and sour cherry pie.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "cheetah-piss",
+      "status": "complete",
+      "name": "Cheetah Piss",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Humulene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "creative",
+        "energetic",
+        "aroused"
+      ],
+      "flavors": [
+        "diesel",
+        "lemon",
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 11
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 600
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Pungent and extremely funky profile reminiscent of its Cat Piss heritage, yielding strong energy.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "white-runtz",
+      "status": "complete",
+      "name": "White Runtz",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "relaxed",
+        "happy",
+        "euphoric"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 500
+      },
+      "difficulty": "Hard",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Known for thick white trichome scaling and a candied, floral, sweet flavor.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "berry-pie",
+      "status": "complete",
+      "name": "Berry Pie",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "energetic",
+        "focused",
+        "uplifted"
+      ],
+      "flavors": [
+        "berry",
+        "sweet",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 11
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 650
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "A very sweet sativa-leaning hybrid perfect for focused morning usage.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "blanco",
+      "status": "complete",
+      "name": "Blanco",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 27,
+        "max": 27
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Limonene",
+        "Myrcene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "sleepy"
+      ],
+      "flavors": [
+        "earthy",
+        "pine",
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 550,
+        "outdoor_g_plant": 650
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "A Lemonnade project bred with Cookies, presenting heavily frosted flowers and a deeply stoney effect.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "collins-ave",
+      "status": "complete",
+      "name": "Collins Ave",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "happy",
+        "uplifted",
+        "talkative"
+      ],
+      "flavors": [
+        "mint",
+        "sweet",
+        "citrus"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 550
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized",
+        "high-thc"
+      ],
+      "description": "Tart citrus and sweet mint notes paired with a highly sociable and talkative stone.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "snowman",
+      "status": "complete",
+      "name": "Snowman",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "creative",
+        "euphoric",
+        "uplifted"
+      ],
+      "flavors": [
+        "earthy",
+        "sweet",
+        "floral"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 500
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Sativa-dominant phenotype of GSC crossing. Famous for its heavy trichome coverage and uplifting, creative buzz.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "sticky-buns",
+      "status": "complete",
+      "name": "Sticky Buns",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "relaxed",
+        "happy",
+        "hungry"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 600
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized",
+        "high-thc"
+      ],
+      "description": "Sticky Buns leaves a sweet, sugary taste in the mouth followed by a cozy, relaxing spread of effects.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "georgia-pie",
+      "status": "complete",
+      "name": "Georgia Pie",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 26,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "hungry",
+        "relaxed",
+        "sleepy"
+      ],
+      "flavors": [
+        "sweet",
+        "berry"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 11
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 600
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Heavy indica-leaning hybrid with a striking aroma of sweet berry and peach cobbler, delivering powerful bodily relaxation.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "pancakes",
+      "status": "complete",
+      "name": "Pancakes",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Myrcene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "relaxed",
+        "happy",
+        "euphoric"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy",
+        "berry"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 550
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Features a buttery, sweet, berry-laden flavor reminiscent of warm pancakes, relaxing yet happily euphoric.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "ocean-beach",
+      "status": "complete",
+      "name": "Ocean Beach",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "uplifted",
+        "happy",
+        "talkative"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy",
+        "citrus"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 600
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized",
+        "high-thc"
+      ],
+      "description": "Brings sweet and salty citrus notes along with an uplifting oceanic wave of happiness and talkative vibes.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "honey-bun",
+      "status": "complete",
+      "name": "Honey Bun",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Humulene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "happy",
+        "euphoric",
+        "relaxed"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 500
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Smells like a brilliantly sweet glazed donut and acts as a strongly euphoric mood-enhancer.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "sour-apple-killer",
+      "status": "complete",
+      "name": "Sour Apple Killer",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 22,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Limonene",
+        "Pinene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "creative",
+        "focused",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "citrus"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 11
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 550
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized",
+        "high-thc"
+      ],
+      "description": "Distinct sharp, sweet, and bright citrus-apple aroma with effects that pierce through mental fog, increasing focus.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "grenadine",
+      "status": "complete",
+      "name": "Grenadine",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "relaxed",
+        "happy",
+        "sleepy"
+      ],
+      "flavors": [
+        "sweet",
+        "berry"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 650
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Rich cherry and sweet berry profile with a thick calming effect ideal for unwinding after a long day.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "pomelo",
+      "status": "complete",
+      "name": "Pomelo",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Limonene",
+        "Pinene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "energetic",
+        "uplifted",
+        "happy"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 500
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "A very bright, zesty, and energetic hybrid delivering focused, creative energy heavily perfumed with ripe citrus.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "tequila-sunrise",
+      "status": "complete",
+      "name": "Tequila Sunrise",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "uplifted",
+        "happy",
+        "talkative"
+      ],
+      "flavors": [
+        "citrus",
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 11
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 600
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Vibrant and punchy like its namesake cocktail, generating an extremely uplifted and socially talkative environment.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "madrina",
+      "status": "complete",
+      "name": "Madrina",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "focused",
+        "creative",
+        "uplifted"
+      ],
+      "flavors": [
+        "sweet",
+        "citrus",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 600
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "feminized",
+        "high-thc"
+      ],
+      "description": "Intense sweet citrus flavors with a focused, creative edge that acts as an excellent mid-day strain.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "ooh-la-la",
+      "status": "complete",
+      "name": "Ooh La La",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 20,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Linalool"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "happy",
+        "relaxed",
+        "euphoric"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 550
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Known as a highly fragrant and floral strain paired with deep, euphoric relaxation.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "medellin",
+      "status": "complete",
+      "name": "Medellin",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Caryophyllene",
+        "Limonene",
+        "Myrcene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "focused",
+        "uplifted",
+        "creative"
+      ],
+      "flavors": [
+        "diesel",
+        "sweet",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 11
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 650
+      },
+      "difficulty": "Hard",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Named for its potent diesel gas aromas mixed with an uplifting and focused effect profile.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "lemonchello-28",
+      "status": "complete",
+      "name": "Lemonchello 28",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Limonene",
+        "Caryophyllene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "happy",
+        "euphoric",
+        "creative"
+      ],
+      "flavors": [
+        "lemon",
+        "citrus",
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 600
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "Extremely pungent lemon hybrid combining uplifting cerebral creativity with deep, stoney relaxation.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+    },
+    {
+      "id": "apples-and-bananas",
+      "status": "complete",
+      "name": "Apples and Bananas",
+      "breeder": [
+        {
+          "name": "Cookies Fam Genetics",
+          "country": "US",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 26,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.1
+      },
+      "terpenes": [
+        "Myrcene",
+        "Pinene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": []
+      },
+      "effects": [
+        "euphoric",
+        "happy",
+        "creative"
+      ],
+      "flavors": [
+        "sweet",
+        "earthy"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 11
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 650
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "high-thc",
+        "feminized"
+      ],
+      "description": "A dense composite hybrid blending prominent baked fruit, apple, and banana pastry aromas with an extremely potent euphoric lift.",
+      "created_at": "2026-03-19",
+      "updated_at": "2026-03-19"
+     },
+     {
+       "id": "laughing-gas",
+       "status": "complete",
+       "name": "Laughing Gas",
+       "breeder": [
+         {
+           "name": "Cookies Fam Genetics",
+           "country": "US",
+           "type": "commercial"
+         }
+       ],
+       "thc": {
+         "min": 22,
+         "max": 22
+       },
+       "cbd": {
+         "min": 0.1,
+         "max": 0.1
+       },
+       "terpenes": [
+         "Limonene",
+         "Caryophyllene",
+         "Pinene"
+       ],
+       "genetics": {
+         "type": "Hybrid",
+         "parents": []
+       },
+       "effects": [
+         "happy",
+         "uplifted",
+         "giggly"
+       ],
+       "flavors": [
+         "diesel",
+         "pine",
+         "sweet"
+       ],
+       "flowering_time_weeks": {
+         "indoor": {
+           "min": 9,
+           "max": 10
+         },
+         "outdoor": {
+           "min": 10,
+           "max": 11
+         }
+       },
+       "yield": {
+         "indoor_g_m2": 450,
+         "outdoor_g_plant": 500
+       },
+       "difficulty": "Moderate",
+       "tags": [
+         "high-thc",
+         "feminized"
+       ],
+       "description": "True to its name, produces a highly giggly, euphoric, and uplifted high with pungent diesel and pine aromas.",
+       "created_at": "2026-03-19",
+       "updated_at": "2026-03-19"
+     },
+     {
+       "id": "blood-moon",
+       "status": "complete",
+       "name": "Blood Moon",
+       "breeder": [
+         {
+           "name": "Cookies Fam Genetics",
+           "country": "US",
+           "type": "commercial"
+         }
+       ],
+       "thc": {
+         "min": 23,
+         "max": 23
+       },
+       "cbd": {
+         "min": 0.1,
+         "max": 0.1
+       },
+       "terpenes": [
+         "Caryophyllene",
+         "Limonene",
+         "Myrcene"
+       ],
+       "genetics": {
+         "type": "Hybrid",
+         "parents": []
+       },
+       "effects": [
+         "relaxed",
+         "euphoric",
+         "happy"
+       ],
+       "flavors": [
+         "citrus",
+         "sweet",
+         "earthy"
+       ],
+       "flowering_time_weeks": {
+         "indoor": {
+           "min": 8,
+           "max": 9
+         },
+         "outdoor": {
+           "min": 9,
+           "max": 10
+         }
+       },
+       "yield": {
+         "indoor_g_m2": 500,
+         "outdoor_g_plant": 600
+       },
+       "difficulty": "Moderate",
+       "tags": [
+         "high-thc",
+         "feminized"
+       ],
+       "description": "Deeply relaxing hybrid with bright citrus and earthy aromas perfect for unwinding after a long day.",
+       "created_at": "2026-03-19",
+       "updated_at": "2026-03-19"
+     },
+     {
+       "id": "berniehana-butter",
+       "status": "complete",
+       "name": "BernieHana Butter",
+       "breeder": [
+         {
+           "name": "Cookies Fam Genetics",
+           "country": "US",
+           "type": "commercial"
+         }
+       ],
+       "thc": {
+         "min": 25,
+         "max": 25
+       },
+       "cbd": {
+         "min": 0.1,
+         "max": 0.1
+       },
+       "terpenes": [
+         "Myrcene",
+         "Caryophyllene",
+         "Linalool"
+       ],
+       "genetics": {
+         "type": "Hybrid",
+         "parents": []
+       },
+       "effects": [
+         "relaxed",
+         "sleepy",
+         "happy"
+       ],
+       "flavors": [
+         "sweet",
+         "earthy"
+       ],
+       "flowering_time_weeks": {
+         "indoor": {
+           "min": 9,
+           "max": 10
+         },
+         "outdoor": {
+           "min": 10,
+           "max": 11
+         }
+       },
+       "yield": {
+         "indoor_g_m2": 500,
+         "outdoor_g_plant": 650
+       },
+       "difficulty": "Moderate",
+       "tags": [
+         "high-thc",
+         "feminized"
+       ],
+       "description": "Very loud, sweet buttery and earthy notes that relax the body intensely, often leading to sleep.",
+       "created_at": "2026-03-19",
+       "updated_at": "2026-03-19"
+     },
+     {
+       "id": "ridiculous",
+       "status": "complete",
+       "name": "Ridiculous",
+       "breeder": [
+         {
+           "name": "Cookies Fam Genetics",
+           "country": "US",
+           "type": "commercial"
+         }
+       ],
+       "thc": {
+         "min": 24,
+         "max": 24
+       },
+       "cbd": {
+         "min": 0.1,
+         "max": 0.1
+       },
+       "terpenes": [
+         "Caryophyllene",
+         "Limonene",
+         "Pinene"
+       ],
+       "genetics": {
+         "type": "Hybrid",
+         "parents": []
+       },
+       "effects": [
+         "euphoric",
+         "relaxed",
+         "happy"
+       ],
+       "flavors": [
+         "sweet",
+         "earthy",
+         "berry"
+       ],
+       "flowering_time_weeks": {
+         "indoor": {
+           "min": 9,
+           "max": 10
+         },
+         "outdoor": {
+           "min": 10,
+           "max": 10
+         }
+       },
+       "yield": {
+         "indoor_g_m2": 450,
+         "outdoor_g_plant": 550
+       },
+       "difficulty": "Moderate",
+       "tags": [
+         "high-thc",
+         "feminized"
+       ],
+       "description": "Delivers an incredibly strong euphoric high alongside rich, robust berry and sweet earth flavors.",
+       "created_at": "2026-03-19",
+       "updated_at": "2026-03-19"
+     },
+     {
+       "id": "all-time-high",
+       "status": "complete",
+       "name": "All Time High",
+       "breeder": [
+         {
+           "name": "Cookies Fam Genetics",
+           "country": "US",
+           "type": "commercial"
+         }
+       ],
+       "thc": {
+         "min": 26,
+         "max": 26
+       },
+       "cbd": {
+         "min": 0.1,
+         "max": 0.1
+       },
+       "terpenes": [
+         "Limonene",
+         "Myrcene",
+         "Caryophyllene"
+       ],
+       "genetics": {
+         "type": "Hybrid",
+         "parents": []
+       },
+       "effects": [
+         "uplifted",
+         "euphoric",
+         "happy"
+       ],
+       "flavors": [
+         "earthy",
+         "pine",
+         "sweet"
+       ],
+       "flowering_time_weeks": {
+         "indoor": {
+           "min": 8,
+           "max": 9
+         },
+         "outdoor": {
+           "min": 9,
+           "max": 10
+         }
+       },
+       "yield": {
+         "indoor_g_m2": 500,
+         "outdoor_g_plant": 600
+       },
+       "difficulty": "Moderate",
+       "tags": [
+         "high-thc",
+         "feminized"
+       ],
+       "description": "True to its name, offers a towering cerebral euphoria complemented by a rich pine and sweet earthy smoke.",
+       "created_at": "2026-03-19",
+       "updated_at": "2026-03-19"
+     },
+     {
+       "id": "pave",
+       "status": "complete",
+       "name": "Pave",
+       "breeder": [
+         {
+           "name": "Cookies Fam Genetics",
+           "country": "US",
+           "type": "commercial"
+         }
+       ],
+       "thc": {
+         "min": 24,
+         "max": 24
+       },
+       "cbd": {
+         "min": 0.1,
+         "max": 0.1
+       },
+       "terpenes": [
+         "Caryophyllene",
+         "Limonene",
+         "Linalool"
+       ],
+       "genetics": {
+         "type": "Hybrid",
+         "parents": []
+       },
+       "effects": [
+         "relaxed",
+         "happy",
+         "euphoric"
+       ],
+       "flavors": [
+         "mint",
+         "earthy",
+         "sweet"
+       ],
+       "flowering_time_weeks": {
+         "indoor": {
+           "min": 9,
+           "max": 10
+         },
+         "outdoor": {
+           "min": 10,
+           "max": 11
+         }
+       },
+       "yield": {
+         "indoor_g_m2": 500,
+         "outdoor_g_plant": 650
+       },
+       "difficulty": "Hard",
+       "tags": [
+         "high-thc",
+         "feminized"
+       ],
+       "description": "Minty, sweet, and gas-forward strain renowned for highly crystallized buds and heavily relaxed euphoric effects.",
+       "created_at": "2026-03-19",
+       "updated_at": "2026-03-19"
+     },
+     {
+       "id": "mexican-flan",
+       "status": "complete",
+       "name": "Mexican Flan",
+       "breeder": [
+         {
+           "name": "Cookies Fam Genetics",
+           "country": "US",
+           "type": "commercial"
+         }
+       ],
+       "thc": {
+         "min": 25,
+         "max": 25
+       },
+       "cbd": {
+         "min": 0.1,
+         "max": 0.1
+       },
+       "terpenes": [
+         "Myrcene",
+         "Caryophyllene",
+         "Pinene"
+       ],
+       "genetics": {
+         "type": "Hybrid",
+         "parents": []
+       },
+       "effects": [
+         "relaxed",
+         "sleepy",
+         "happy"
+       ],
+       "flavors": [
+         "sweet",
+         "earthy"
+       ],
+       "flowering_time_weeks": {
+         "indoor": {
+           "min": 8,
+           "max": 10
+         },
+         "outdoor": {
+           "min": 10,
+           "max": 11
+         }
+       },
+       "yield": {
+         "indoor_g_m2": 550,
+         "outdoor_g_plant": 700
+       },
+       "difficulty": "Moderate",
+       "tags": [
+         "high-thc",
+         "feminized"
+       ],
+       "description": "Potent cross resulting in a smooth, sweet, baked-goods aroma matched with heavy couch-locking physical relaxation.",
+       "created_at": "2026-03-19",
+       "updated_at": "2026-03-19"
+     },
+     {
+       "id": "that-badu",
+       "status": "complete",
+       "name": "That Badu",
+       "breeder": [
+         {
+           "name": "Cookies Fam Genetics",
+           "country": "US",
+           "type": "commercial"
+         }
+       ],
+       "thc": {
+         "min": 22,
+         "max": 22
+       },
+       "cbd": {
+         "min": 0.1,
+         "max": 0.1
+       },
+       "terpenes": [
+         "Limonene",
+         "Caryophyllene",
+         "Pinene"
+       ],
+       "genetics": {
+         "type": "Hybrid",
+         "parents": []
+       },
+       "effects": [
+         "creative",
+         "focused",
+         "happy"
+       ],
+       "flavors": [
+         "citrus",
+         "sweet",
+         "earthy"
+       ],
+       "flowering_time_weeks": {
+         "indoor": {
+           "min": 8,
+           "max": 9
+         },
+         "outdoor": {
+           "min": 9,
+           "max": 10
+         }
+       },
+       "yield": {
+         "indoor_g_m2": 450,
+         "outdoor_g_plant": 550
+       },
+       "difficulty": "Moderate",
+       "tags": [
+         "feminized",
+         "high-thc"
+       ],
+       "description": "Zesty citrus and sweet earthy undertones promoting focus, creativity, and centered happiness.",
+       "created_at": "2026-03-19",
+       "updated_at": "2026-03-19"
+     },
+     {
+       "id": "hawaiian-snow",
+       "status": "complete",
+       "name": "Hawaiian Snow",
+       "breeder": [
+         {
+           "name": "Cookies Fam Genetics",
+           "country": "US",
+           "type": "commercial"
+         }
+       ],
+       "thc": {
+         "min": 23,
+         "max": 23
+       },
+       "cbd": {
+         "min": 0.1,
+         "max": 0.1
+       },
+       "terpenes": [
+         "Limonene",
+         "Myrcene",
+         "Pinene"
+       ],
+       "genetics": {
+         "type": "Sativa-dominant Hybrid",
+         "parents": []
+       },
+       "effects": [
+         "energetic",
+         "uplifted",
+         "creative"
+       ],
+       "flavors": [
+         "tropical",
+         "sweet",
+         "citrus"
+       ],
+       "flowering_time_weeks": {
+         "indoor": {
+           "min": 10,
+           "max": 11
+         },
+         "outdoor": {
+           "min": 11,
+           "max": 14
+         }
+       },
+       "yield": {
+         "indoor_g_m2": 600,
+         "outdoor_g_plant": 700
+       },
+       "difficulty": "Hard",
+       "tags": [
+         "high-thc",
+         "feminized"
+       ],
+       "description": "Sativa powerhouse blending bright tropical and citrus tones with surging euphoric, creative energy.",
+       "created_at": "2026-03-19",
+       "updated_at": "2026-03-19"
+     },
+     {
+       "id": "triple-scoop",
+       "status": "complete",
+       "name": "Triple Scoop",
+       "breeder": [
+         {
+           "name": "Cookies Fam Genetics",
+           "country": "US",
+           "type": "commercial"
+         }
+       ],
+       "thc": {
+         "min": 24,
+         "max": 24
+       },
+       "cbd": {
+         "min": 0.1,
+         "max": 0.1
+       },
+       "terpenes": [
+         "Caryophyllene",
+         "Myrcene",
+         "Limonene"
+       ],
+       "genetics": {
+         "type": "Hybrid",
+         "parents": []
+       },
+       "effects": [
+         "happy",
+         "euphoric",
+         "relaxed"
+       ],
+       "flavors": [
+         "sweet",
+         "berry",
+         "earthy"
+       ],
+       "flowering_time_weeks": {
+         "indoor": {
+           "min": 8,
+           "max": 9
+         },
+         "outdoor": {
+           "min": 9,
+           "max": 10
+         }
+       },
+       "yield": {
+         "indoor_g_m2": 500,
+         "outdoor_g_plant": 600
+       },
+       "difficulty": "Moderate",
+       "tags": [
+         "high-thc",
+         "feminized"
+       ],
+       "description": "Produces a rich, complex sweet berry taste layered over happy, heavily euphoric, and relaxed vibes.",
+       "created_at": "2026-03-19",
+       "updated_at": "2026-03-19"
+      },
+      {
+        "id": "nectarine-jelly",
+        "status": "complete",
+        "name": "Nectarine Jelly",
+        "breeder": [
+          {
+            "name": "Cookies Fam Genetics",
+            "country": "US",
+            "type": "commercial"
+          }
+        ],
+        "thc": {
+          "min": 21,
+          "max": 21
+        },
+        "cbd": {
+          "min": 0.1,
+          "max": 0.1
+        },
+        "terpenes": [
+          "Limonene",
+          "Myrcene",
+          "Pinene"
+        ],
+        "genetics": {
+          "type": "Hybrid",
+          "parents": []
+        },
+        "effects": [
+          "happy",
+          "uplifted",
+          "relaxed"
+        ],
+        "flavors": [
+          "sweet",
+          "citrus"
+        ],
+        "flowering_time_weeks": {
+          "indoor": {
+            "min": 8,
+            "max": 9
+          },
+          "outdoor": {
+            "min": 9,
+            "max": 10
+          }
+        },
+        "yield": {
+          "indoor_g_m2": 450,
+          "outdoor_g_plant": 500
+        },
+        "difficulty": "Moderate",
+        "tags": [
+          "high-thc",
+          "feminized"
+        ],
+        "description": "Exploding with bright citrus and sweet peach-like jelly notes, paired with uplifting happiness.",
+        "created_at": "2026-03-19",
+        "updated_at": "2026-03-19"
+      },
+      {
+        "id": "jealousy",
+        "status": "complete",
+        "name": "Jealousy",
+        "breeder": [
+          {
+            "name": "Cookies Fam Genetics",
+            "country": "US",
+            "type": "commercial"
+          }
+        ],
+        "thc": {
+          "min": 26,
+          "max": 26
+        },
+        "cbd": {
+          "min": 0.1,
+          "max": 0.1
+        },
+        "terpenes": [
+          "Caryophyllene",
+          "Limonene",
+          "Linalool"
+        ],
+        "genetics": {
+          "type": "Hybrid",
+          "parents": []
+        },
+        "effects": [
+          "relaxed",
+          "happy",
+          "euphoric"
+        ],
+        "flavors": [
+          "earthy",
+          "sweet",
+          "peppery"
+        ],
+        "flowering_time_weeks": {
+          "indoor": {
+            "min": 9,
+            "max": 10
+          },
+          "outdoor": {
+            "min": 10,
+            "max": 11
+          }
+        },
+        "yield": {
+          "indoor_g_m2": 550,
+          "outdoor_g_plant": 650
+        },
+        "difficulty": "Hard",
+        "tags": [
+          "award-winner",
+          "high-thc",
+          "feminized"
+        ],
+        "description": "Leafly's 2022 Strain of the Year. Very dark, heavy structure with deeply relaxed euphoric qualities.",
+        "created_at": "2026-03-19",
+        "updated_at": "2026-03-19"
+      },
+      {
+        "id": "animal-cookies",
+        "status": "complete",
+        "name": "Animal Cookies",
+        "breeder": [
+          {
+            "name": "Cookies Fam Genetics",
+            "country": "US",
+            "type": "commercial"
+          }
+        ],
+        "thc": {
+          "min": 23,
+          "max": 23
+        },
+        "cbd": {
+          "min": 0.1,
+          "max": 0.1
+        },
+        "terpenes": [
+          "Caryophyllene",
+          "Myrcene",
+          "Pinene"
+        ],
+        "genetics": {
+          "type": "Indica-dominant Hybrid",
+          "parents": []
+        },
+        "effects": [
+          "sleepy",
+          "relaxed",
+          "happy"
+        ],
+        "flavors": [
+          "sweet",
+          "earthy",
+          "peppery"
+        ],
+        "flowering_time_weeks": {
+          "indoor": {
+            "min": 9,
+            "max": 10
+          },
+          "outdoor": {
+            "min": 10,
+            "max": 11
+          }
+        },
+        "yield": {
+          "indoor_g_m2": 450,
+          "outdoor_g_plant": 500
+        },
+        "difficulty": "Hard",
+        "tags": [
+          "high-thc",
+          "feminized",
+          "classic"
+        ],
+        "description": "Heavy yielding indica-dominant hybrid offering a sweet and sour aroma and powerful heavy-body effects.",
+        "created_at": "2026-03-19",
+        "updated_at": "2026-03-19"
+      },
+      {
+        "id": "platinum-cookies",
+        "status": "complete",
+        "name": "Platinum Cookies",
+        "breeder": [
+          {
+            "name": "Cookies Fam Genetics",
+            "country": "US",
+            "type": "commercial"
+          }
+        ],
+        "thc": {
+          "min": 22,
+          "max": 22
+        },
+        "cbd": {
+          "min": 0.1,
+          "max": 0.1
+        },
+        "terpenes": [
+          "Caryophyllene",
+          "Limonene",
+          "Humulene"
+        ],
+        "genetics": {
+          "type": "Hybrid",
+          "parents": []
+        },
+        "effects": [
+          "euphoric",
+          "uplifted",
+          "relaxed"
+        ],
+        "flavors": [
+          "sweet",
+          "earthy",
+          "berry"
+        ],
+        "flowering_time_weeks": {
+          "indoor": {
+            "min": 8,
+            "max": 9
+          },
+          "outdoor": {
+            "min": 9,
+            "max": 10
+          }
+        },
+        "yield": {
+          "indoor_g_m2": 500,
+          "outdoor_g_plant": 600
+        },
+        "difficulty": "Moderate",
+        "tags": [
+          "feminized",
+          "high-thc"
+        ],
+        "description": "Known for its thick coat of crystal resin and extremely uplifting, relaxing waves.",
+        "created_at": "2026-03-19",
+        "updated_at": "2026-03-19"
+      },
+      {
+        "id": "gmo-cookies",
+        "status": "complete",
+        "name": "GMO Cookies",
+        "breeder": [
+          {
+            "name": "Cookies Fam Genetics",
+            "country": "US",
+            "type": "commercial"
+          }
+        ],
+        "thc": {
+          "min": 28,
+          "max": 28
+        },
+        "cbd": {
+          "min": 0.1,
+          "max": 0.1
+        },
+        "terpenes": [
+          "Caryophyllene",
+          "Limonene",
+          "Myrcene"
+        ],
+        "genetics": {
+          "type": "Indica-dominant Hybrid",
+          "parents": []
+        },
+        "effects": [
+          "sleepy",
+          "relaxed",
+          "happy"
+        ],
+        "flavors": [
+          "diesel",
+          "earthy"
+        ],
+        "flowering_time_weeks": {
+          "indoor": {
+            "min": 10,
+            "max": 12
+          },
+          "outdoor": {
+            "min": 11,
+            "max": 12
+          }
+        },
+        "yield": {
+          "indoor_g_m2": 550,
+          "outdoor_g_plant": 650
+        },
+        "difficulty": "Hard",
+        "tags": [
+          "high-thc",
+          "feminized"
+        ],
+        "description": "Massively strong skunk and diesel odor with ultra-heavy indica sedation. Extreme THC potential.",
+        "created_at": "2026-03-19",
+        "updated_at": "2026-03-19"
+      },
+      {
+        "id": "grape-cookies",
+        "status": "complete",
+        "name": "Grape Cookies",
+        "breeder": [
+          {
+            "name": "Cookies Fam Genetics",
+            "country": "US",
+            "type": "commercial"
+          }
+        ],
+        "thc": {
+          "min": 20,
+          "max": 20
+        },
+        "cbd": {
+          "min": 0.1,
+          "max": 0.1
+        },
+        "terpenes": [
+          "Caryophyllene",
+          "Myrcene",
+          "Linalool"
+        ],
+        "genetics": {
+          "type": "Indica-dominant Hybrid",
+          "parents": []
+        },
+        "effects": [
+          "relaxed",
+          "sleepy",
+          "happy"
+        ],
+        "flavors": [
+          "grape",
+          "sweet",
+          "earthy"
+        ],
+        "flowering_time_weeks": {
+          "indoor": {
+            "min": 8,
+            "max": 9
+          },
+          "outdoor": {
+            "min": 9,
+            "max": 10
+          }
+        },
+        "yield": {
+          "indoor_g_m2": 450,
+          "outdoor_g_plant": 500
+        },
+        "difficulty": "Moderate",
+        "tags": [
+          "feminized"
+        ],
+        "description": "Sweet grape notes interwoven with earthy OG funk, leading to heavy sleepy relaxation.",
+        "created_at": "2026-03-19",
+        "updated_at": "2026-03-19"
+      },
+      {
+        "id": "jungle-cookies",
+        "status": "complete",
+        "name": "Jungle Cookies",
+        "breeder": [
+          {
+            "name": "Cookies Fam Genetics",
+            "country": "US",
+            "type": "commercial"
+          }
+        ],
+        "thc": {
+          "min": 24,
+          "max": 24
+        },
+        "cbd": {
+          "min": 0.1,
+          "max": 0.1
+        },
+        "terpenes": [
+          "Myrcene",
+          "Caryophyllene",
+          "Limonene"
+        ],
+        "genetics": {
+          "type": "Hybrid",
+          "parents": []
+        },
+        "effects": [
+          "happy",
+          "euphoric",
+          "relaxed"
+        ],
+        "flavors": [
+          "earthy",
+          "woody",
+          "sweet"
+        ],
+        "flowering_time_weeks": {
+          "indoor": {
+            "min": 9,
+            "max": 10
+          },
+          "outdoor": {
+            "min": 10,
+            "max": 11
+          }
+        },
+        "yield": {
+          "indoor_g_m2": 500,
+          "outdoor_g_plant": 600
+        },
+        "difficulty": "Moderate",
+        "tags": [
+          "high-thc",
+          "feminized"
+        ],
+        "description": "Potent and woody hybrid that produces a strong euphoric rush paired with physical heaviness.",
+        "created_at": "2026-03-19",
+        "updated_at": "2026-03-19"
+      },
+      {
+        "id": "clown-cookies",
+        "status": "complete",
+        "name": "Clown Cookies",
+        "breeder": [
+          {
+            "name": "Cookies Fam Genetics",
+            "country": "US",
+            "type": "commercial"
+          }
+        ],
+        "thc": {
+          "min": 22,
+          "max": 22
+        },
+        "cbd": {
+          "min": 0.1,
+          "max": 0.1
+        },
+        "terpenes": [
+          "Caryophyllene",
+          "Pinene",
+          "Limonene"
+        ],
+        "genetics": {
+          "type": "Hybrid",
+          "parents": []
+        },
+        "effects": [
+          "relaxed",
+          "euphoric",
+          "happy"
+        ],
+        "flavors": [
+          "sweet",
+          "earthy",
+          "pine"
+        ],
+        "flowering_time_weeks": {
+          "indoor": {
+            "min": 8,
+            "max": 9
+          },
+          "outdoor": {
+            "min": 9,
+            "max": 10
+          }
+        },
+        "yield": {
+          "indoor_g_m2": 450,
+          "outdoor_g_plant": 550
+        },
+        "difficulty": "Moderate",
+        "tags": [
+          "feminized",
+          "high-thc"
+        ],
+        "description": "Fun, bouncy high mixed with heavy hitting pine and sweet earthy aromatics.",
+        "created_at": "2026-03-19",
+        "updated_at": "2026-03-19"
+      },
+      {
+        "id": "biscotti",
+        "status": "complete",
+        "name": "Biscotti",
+        "breeder": [
+          {
+            "name": "Cookies Fam Genetics",
+            "country": "US",
+            "type": "commercial"
+          }
+        ],
+        "thc": {
+          "min": 24,
+          "max": 24
+        },
+        "cbd": {
+          "min": 0.1,
+          "max": 0.1
+        },
+        "terpenes": [
+          "Caryophyllene",
+          "Limonene",
+          "Myrcene"
+        ],
+        "genetics": {
+          "type": "Indica-dominant Hybrid",
+          "parents": []
+        },
+        "effects": [
+          "giggly",
+          "relaxed",
+          "happy"
+        ],
+        "flavors": [
+          "sweet",
+          "earthy"
+        ],
+        "flowering_time_weeks": {
+          "indoor": {
+            "min": 8,
+            "max": 9
+          },
+          "outdoor": {
+            "min": 9,
+            "max": 10
+          }
+        },
+        "yield": {
+          "indoor_g_m2": 500,
+          "outdoor_g_plant": 600
+        },
+        "difficulty": "Moderate",
+        "tags": [
+          "high-thc",
+          "feminized"
+        ],
+        "description": "Provides a heavy, relaxing body buzz accompanied by sweet and delicious buttery flavors.",
+        "created_at": "2026-03-19",
+        "updated_at": "2026-03-19"
+       }
+     ]
+   }

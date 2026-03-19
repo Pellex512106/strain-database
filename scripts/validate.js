@@ -25,28 +25,28 @@ import { resolve, dirname } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const DB_PATH   = resolve(__dirname, "../data.json");
+const DB_PATH = resolve(__dirname, "../data.json");
 
 // ---------------------------------------------------------------------------
 // Args
 // ---------------------------------------------------------------------------
-const args       = process.argv.slice(2);
-const inclStubs  = args.includes("--stubs");
-const strict     = args.includes("--strict");
+const args = process.argv.slice(2);
+const inclStubs = args.includes("--stubs");
+const strict = args.includes("--strict");
 
 // ---------------------------------------------------------------------------
 // Helpers
 // ---------------------------------------------------------------------------
-const isObj   = (v) => v !== null && typeof v === "object" && !Array.isArray(v);
-const isArr   = (v) => Array.isArray(v);
-const isNum   = (v) => typeof v === "number" && isFinite(v);
-const isStr   = (v) => typeof v === "string";
+const isObj = (v) => v !== null && typeof v === "object" && !Array.isArray(v);
+const isArr = (v) => Array.isArray(v);
+const isNum = (v) => typeof v === "number" && isFinite(v);
+const isStr = (v) => typeof v === "string";
 
-let errors   = 0;
+let errors = 0;
 let warnings = 0;
 
-function err(id, msg)  { console.error(`  ❌  [${id}] ${msg}`); errors++; }
-function warn(id, msg) { console.warn (`  ⚠   [${id}] ${msg}`); warnings++; }
+function err(id, msg) { console.error(`  ❌  [${id}] ${msg}`); errors++; }
+function warn(id, msg) { console.warn(`  ⚠   [${id}] ${msg}`); warnings++; }
 
 // ---------------------------------------------------------------------------
 // Load
@@ -64,13 +64,13 @@ if (!isObj(db) || !isArr(db.strains)) {
   process.exit(1);
 }
 
-const meta       = db.meta ?? {};
-const strains    = db.strains;
-const allowedEffects = new Set(meta.effects    ?? []);
-const allowedFlavors = new Set(meta.flavors    ?? []);
-const allowedTags    = new Set(meta.tags       ?? []);
-const allowedTypes   = new Set(meta.genetics_types ?? []);
-const allIds         = new Set(strains.map((s) => s.id).filter(Boolean));
+const meta = db.meta ?? {};
+const strains = db.strains;
+const allowedEffects = new Set(meta.effects ?? []);
+const allowedFlavors = new Set(meta.flavors ?? []);
+const allowedTags = new Set(meta.tags ?? []);
+const allowedTypes = new Set(meta.genetics_types ?? []);
+const allIds = new Set(strains.map((s) => s.id).filter(Boolean));
 
 // ---------------------------------------------------------------------------
 // Run checks
@@ -87,8 +87,8 @@ strains.forEach((s, i) => {
 
 // 2. Per-strain checks
 strains.forEach((strain) => {
-  const id      = strain.id ?? `[index ${strains.indexOf(strain)}]`;
-  const isStub  = strain.status === "stub";
+  const id = strain.id ?? `[index ${strains.indexOf(strain)}]`;
+  const isStub = strain.status === "stub";
 
   if (isStub && !inclStubs) {
     // Skip stubs unless --stubs flag is passed
@@ -114,7 +114,7 @@ strains.forEach((strain) => {
   } else {
     strain.breeder.forEach((b, i) => {
       if (!isObj(b)) return err(id, `"breeder[${i}]" must be an object`);
-      if (!isStr(b.name))    err(id, `"breeder[${i}].name" must be a string`);
+      if (!isStr(b.name)) err(id, `"breeder[${i}].name" must be a string`);
       if (!isStr(b.country)) err(id, `"breeder[${i}].country" must be a string`);
       if (!["commercial", "private"].includes(b.type))
         err(id, `"breeder[${i}].type" must be "commercial" or "private" — got: ${JSON.stringify(b.type)}`);
@@ -166,8 +166,8 @@ strains.forEach((strain) => {
     });
   };
   checkVocab("effects", allowedEffects);
-  checkVocab("flavors",  allowedFlavors);
-  checkVocab("tags",     allowedTags);
+  checkVocab("flavors", allowedFlavors);
+  checkVocab("tags", allowedTags);
 
   // --- Flowering time ---
   const checkWeekRange = (env) => {
@@ -206,8 +206,8 @@ strains.forEach((strain) => {
   // --- Completeness hint for complete strains ---
   if (!isStub) {
     if (!strain.description) warn(id, '"description" is empty on a complete strain');
-    if ((strain.effects ?? []).length === 0)  warn(id, '"effects" is empty on a complete strain');
-    if ((strain.flavors  ?? []).length === 0) warn(id, '"flavors" is empty on a complete strain');
+    if ((strain.effects ?? []).length === 0) warn(id, '"effects" is empty on a complete strain');
+    if ((strain.flavors ?? []).length === 0) warn(id, '"flavors" is empty on a complete strain');
     if ((strain.terpenes ?? []).length === 0) warn(id, '"terpenes" is empty on a complete strain');
   }
 
@@ -221,8 +221,8 @@ console.log("─".repeat(50));
 if (errors === 0 && warnings === 0) {
   console.log("✅  All checks passed — no errors or warnings.");
 } else {
-  if (errors   > 0) console.error(`❌  ${errors} error(s) found.`);
-  if (warnings > 0) console.warn (`⚠   ${warnings} warning(s) found.`);
+  if (errors > 0) console.error(`❌  ${errors} error(s) found.`);
+  if (warnings > 0) console.warn(`⚠   ${warnings} warning(s) found.`);
 }
 
 process.exit(errors > 0 || (strict && warnings > 0) ? 1 : 0);
