@@ -10640,6 +10640,887 @@
         "description": "Provides a heavy, relaxing body buzz accompanied by sweet and delicious buttery flavors.",
         "created_at": "2026-03-19",
         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "pink-guava",
+         "status": "complete",
+         "name": "Pink Guava",
+         "breeder": [
+           {
+             "name": "Unknown",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 22,
+           "max": 22
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Myrcene",
+           "Caryophyllene",
+           "Limonene"
+         ],
+         "genetics": {
+           "type": "Hybrid",
+           "parents": []
+         },
+         "effects": [
+           "happy",
+           "uplifted",
+           "euphoric"
+         ],
+         "flavors": [
+           "tropical",
+           "sweet",
+           "citrus"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 8,
+             "max": 9
+           },
+           "outdoor": {
+             "min": 9,
+             "max": 10
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 450,
+           "outdoor_g_plant": 500
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "feminized",
+           "high-thc"
+         ],
+         "description": "Fruity and extremely aromatic tropical hybrid heavily utilized in modern breeding projects.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "rainbow-sherbet-11",
+         "status": "complete",
+         "name": "Rainbow Sherbet #11",
+         "breeder": [
+           {
+             "name": "Wizard Trees",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 27,
+           "max": 27
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Myrcene",
+           "Caryophyllene",
+           "Linalool"
+         ],
+         "genetics": {
+           "type": "Hybrid",
+           "parents": [
+             "pink-guava",
+             "sunset-sherbet"
+           ]
+         },
+         "effects": [
+           "relaxed",
+           "euphoric",
+           "happy"
+         ],
+         "flavors": [
+           "sweet",
+           "berry",
+           "pine"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 8,
+             "max": 9
+           },
+           "outdoor": {
+             "min": 9,
+             "max": 10
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 500,
+           "outdoor_g_plant": 600
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "high-thc",
+           "feminized"
+         ],
+         "description": "Bred by Wizard Trees. Offers a deeply relaxing body high alongside a bright, euphoric cerebral lift with intense sweet, berry, and pine notes.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "zangria",
+         "status": "complete",
+         "name": "Zangria",
+         "breeder": [
+           {
+             "name": "Wizard Trees",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 24,
+           "max": 24
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Limonene",
+           "Caryophyllene",
+           "Myrcene"
+         ],
+         "genetics": {
+           "type": "Indica-dominant Hybrid",
+           "parents": [
+             "thin-mint-gsc",
+             "zkittlez"
+           ]
+         },
+         "effects": [
+           "sleepy",
+           "relaxed",
+           "happy"
+         ],
+         "flavors": [
+           "grape",
+           "sweet",
+           "earthy"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 9,
+             "max": 10
+           },
+           "outdoor": {
+             "min": 10,
+             "max": 11
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 450,
+           "outdoor_g_plant": 550
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "high-thc",
+           "feminized"
+         ],
+         "description": "Bred by Wizard Trees, crossing Thin Mint Cookies with Zkittlez. Deeply intoxicating aroma of sweet grape and earth with intensely relaxing, sleepy physical stone.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "studio-54",
+         "status": "complete",
+         "name": "Studio 54",
+         "breeder": [
+           {
+             "name": "Wizard Trees",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 25,
+           "max": 25
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Limonene",
+           "Myrcene",
+           "Pinene"
+         ],
+         "genetics": {
+           "type": "Hybrid",
+           "parents": [
+             "sunset-sherbet",
+             "pink-guava"
+           ]
+         },
+         "effects": [
+           "talkative",
+           "euphoric",
+           "creative"
+         ],
+         "flavors": [
+           "sweet",
+           "berry",
+           "earthy"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 8,
+             "max": 10
+           },
+           "outdoor": {
+             "min": 10,
+             "max": 11
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 500,
+           "outdoor_g_plant": 600
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "high-thc",
+           "feminized"
+         ],
+         "description": "An alternate pheno hunt selection boasting incredible party-focused and sociable effects, laden with fruit and earth flavors.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "route-66",
+         "status": "complete",
+         "name": "Route 66",
+         "breeder": [
+           {
+             "name": "Wizard Trees",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 26,
+           "max": 26
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Caryophyllene",
+           "Limonene",
+           "Myrcene"
+         ],
+         "genetics": {
+           "type": "Hybrid",
+           "parents": [
+             "rainbow-sherbet-11"
+           ]
+         },
+         "effects": [
+           "relaxed",
+           "happy",
+           "euphoric"
+         ],
+         "flavors": [
+           "diesel",
+           "sweet",
+           "pine"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 9,
+             "max": 10
+           },
+           "outdoor": {
+             "min": 10,
+             "max": 11
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 550,
+           "outdoor_g_plant": 650
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "high-thc",
+           "feminized"
+         ],
+         "description": "Cruising diesel and sweet fruit aroma profile yielding deep, steady body relaxation.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "shirazi",
+         "status": "complete",
+         "name": "Shirazi",
+         "breeder": [
+           {
+             "name": "Wizard Trees",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 24,
+           "max": 24
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Myrcene",
+           "Caryophyllene",
+           "Linalool"
+         ],
+         "genetics": {
+           "type": "Indica-dominant Hybrid",
+           "parents": [
+             "rainbow-sherbet-11",
+             "zkittlez"
+           ]
+         },
+         "effects": [
+           "sleepy",
+           "relaxed",
+           "happy"
+         ],
+         "flavors": [
+           "grape",
+           "sweet",
+           "earthy"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 8,
+             "max": 10
+           },
+           "outdoor": {
+             "min": 10,
+             "max": 11
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 500,
+           "outdoor_g_plant": 600
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "high-thc",
+           "feminized"
+         ],
+         "description": "Deeply dark and fruity strain hitting hard physically, often leading directly to a joyful night of sleep.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "the-keeper",
+         "status": "complete",
+         "name": "The Keeper",
+         "breeder": [
+           {
+             "name": "Wizard Trees",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 26,
+           "max": 26
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Limonene",
+           "Caryophyllene",
+           "Myrcene"
+         ],
+         "genetics": {
+           "type": "Hybrid",
+           "parents": [
+             "rainbow-sherbet-11"
+           ]
+         },
+         "effects": [
+           "creative",
+           "focused",
+           "uplifted"
+         ],
+         "flavors": [
+           "citrus",
+           "sweet",
+           "earthy"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 9,
+             "max": 10
+           },
+           "outdoor": {
+             "min": 10,
+             "max": 11
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 550,
+           "outdoor_g_plant": 650
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "high-thc",
+           "feminized"
+         ],
+         "description": "Selected specifically for its elite structural traits and fiercely creative, soaring mental lift.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "cream-piez",
+         "status": "complete",
+         "name": "Cream Piez",
+         "breeder": [
+           {
+             "name": "Wizard Trees",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 25,
+           "max": 25
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Caryophyllene",
+           "Limonene",
+           "Linalool"
+         ],
+         "genetics": {
+           "type": "Hybrid",
+           "parents": [
+             "georgia-pie",
+             "zangria"
+           ]
+         },
+         "effects": [
+           "hungry",
+           "relaxed",
+           "happy"
+         ],
+         "flavors": [
+           "sweet",
+           "berry",
+           "earthy"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 9,
+             "max": 10
+           },
+           "outdoor": {
+             "min": 10,
+             "max": 11
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 500,
+           "outdoor_g_plant": 600
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "high-thc",
+           "feminized"
+         ],
+         "description": "Massive dessert-style trichome producer with extremely heavy appetite stimulation and potent body relaxation.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "yuzu",
+         "status": "complete",
+         "name": "Yuzu",
+         "breeder": [
+           {
+             "name": "Wizard Trees",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 23,
+           "max": 23
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Limonene",
+           "Myrcene",
+           "Pinene"
+         ],
+         "genetics": {
+           "type": "Hybrid",
+           "parents": [
+             "rainbow-sherbet-11",
+             "zkittlez"
+           ]
+         },
+         "effects": [
+           "energetic",
+           "uplifted",
+           "happy"
+         ],
+         "flavors": [
+           "citrus",
+           "sweet",
+           "lemon"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 8,
+             "max": 9
+           },
+           "outdoor": {
+             "min": 9,
+             "max": 10
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 450,
+           "outdoor_g_plant": 500
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "high-thc",
+           "feminized"
+         ],
+         "description": "Provides extremely loud, zesty Asian yuzu aromas and provides a burst of happy energy.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "rs-54",
+         "status": "complete",
+         "name": "RS54",
+         "breeder": [
+           {
+             "name": "Wizard Trees",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 26,
+           "max": 26
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Myrcene",
+           "Caryophyllene",
+           "Limonene"
+         ],
+         "genetics": {
+           "type": "Hybrid",
+           "parents": [
+             "pink-guava",
+             "sunset-sherbet"
+           ]
+         },
+         "effects": [
+           "relaxed",
+           "euphoric",
+           "creative"
+         ],
+         "flavors": [
+           "sweet",
+           "pine",
+           "citrus"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 9,
+             "max": 10
+           },
+           "outdoor": {
+             "min": 10,
+             "max": 11
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 550,
+           "outdoor_g_plant": 650
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "high-thc",
+           "feminized"
+         ],
+         "description": "Sister pheno to RS11, boasting a sharper gas and pine profile combined with heavy euphoric effects.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "zkittlez-terp-hogz",
+         "status": "complete",
+         "name": "Zkittlez",
+         "breeder": [
+           {
+             "name": "Terp Hogz",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 20,
+           "max": 20
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Caryophyllene",
+           "Linalool",
+           "Humulene"
+         ],
+         "genetics": {
+           "type": "Indica-dominant Hybrid",
+           "parents": []
+         },
+         "effects": [
+           "relaxed",
+           "happy",
+           "sleepy"
+         ],
+         "flavors": [
+           "sweet",
+           "berry",
+           "grape"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 7,
+             "max": 8
+           },
+           "outdoor": {
+             "min": 8,
+             "max": 9
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 400,
+           "outdoor_g_plant": 500
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "classic",
+           "award-winner",
+           "feminized"
+         ],
+         "description": "Famous award-winning strain producing sweet, candy-like flavors and profound physical relaxation.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "gary-payton-cookies",
+         "status": "complete",
+         "name": "Gary Payton",
+         "breeder": [
+           {
+             "name": "Cookies Fam Genetics",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 25,
+           "max": 25
+         },
+         "cbd": {
+           "min": 0.2,
+           "max": 0.2
+         },
+         "terpenes": [
+           "Caryophyllene",
+           "Limonene",
+           "Pinene"
+         ],
+         "genetics": {
+           "type": "Hybrid",
+           "parents": []
+         },
+         "effects": [
+           "uplifted",
+           "energetic",
+           "talkative",
+           "euphoric"
+         ],
+         "flavors": [
+           "earthy",
+           "peppery",
+           "spicy",
+           "sweet"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 8,
+             "max": 9
+           },
+           "outdoor": {
+             "min": 9,
+             "max": 10
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 500,
+           "outdoor_g_plant": 600
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "high-thc",
+           "feminized"
+         ],
+         "description": "Cultivated by Cookies. Brings heavy, hard-hitting euphoric effects and an earthy, spicy flavor profile.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "wedding-cake-cookies",
+         "status": "complete",
+         "name": "Wedding Cake",
+         "breeder": [
+           {
+             "name": "Cookies Fam Genetics",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 24,
+           "max": 24
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Limonene",
+           "Caryophyllene",
+           "Myrcene"
+         ],
+         "genetics": {
+           "type": "Indica-dominant Hybrid",
+           "parents": []
+         },
+         "effects": [
+           "relaxed",
+           "happy",
+           "euphoric"
+         ],
+         "flavors": [
+           "sweet",
+           "earthy"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 8,
+             "max": 9
+           },
+           "outdoor": {
+             "min": 9,
+             "max": 10
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 500,
+           "outdoor_g_plant": 600
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "classic",
+           "high-thc",
+           "feminized"
+         ],
+         "description": "Rich and tangy with earthy and pepper notes. Gives exceptionally relaxing and euphoric mind states.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
+       },
+       {
+         "id": "tropicana-cookies-cookies",
+         "status": "complete",
+         "name": "Tropicana Cookies",
+         "breeder": [
+           {
+             "name": "Cookies Fam Genetics",
+             "country": "US",
+             "type": "commercial"
+           }
+         ],
+         "thc": {
+           "min": 21,
+           "max": 21
+         },
+         "cbd": {
+           "min": 0.1,
+           "max": 0.1
+         },
+         "terpenes": [
+           "Caryophyllene",
+           "Limonene",
+           "Humulene"
+         ],
+         "genetics": {
+           "type": "Sativa-dominant Hybrid",
+           "parents": []
+         },
+         "effects": [
+           "energetic",
+           "uplifted",
+           "happy"
+         ],
+         "flavors": [
+           "citrus",
+           "sweet"
+         ],
+         "flowering_time_weeks": {
+           "indoor": {
+             "min": 9,
+             "max": 10
+           },
+           "outdoor": {
+             "min": 10,
+             "max": 10
+           }
+         },
+         "yield": {
+           "indoor_g_m2": 450,
+           "outdoor_g_plant": 500
+         },
+         "difficulty": "Moderate",
+         "tags": [
+           "high-thc",
+           "feminized"
+         ],
+         "description": "Intensely bright citrus notes with an uplifting, sativa-heavy effect profile.",
+         "created_at": "2026-03-19",
+         "updated_at": "2026-03-19"
        }
      ]
    }
