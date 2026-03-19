@@ -121,19 +121,24 @@ strains.forEach((strain) => {
     });
   }
 
-  // --- THC / CBD ({min, max} objects) ---
-  const checkRange = (field) => {
-    const v = strain[field];
-    if (!isObj(v)) return err(id, `"${field}" must be an object with min/max`);
-    if (v.min !== null && (!isNum(v.min) || v.min < 0 || v.min > 100))
-      err(id, `"${field}.min" must be a number 0–100 or null`);
-    if (v.max !== null && (!isNum(v.max) || v.max < 0 || v.max > 100))
-      err(id, `"${field}.max" must be a number 0–100 or null`);
-    if (v.min !== null && v.max !== null && v.min > v.max)
-      err(id, `"${field}.min" (${v.min}) must be ≤ max (${v.max})`);
-  };
-  checkRange("thc");
-  checkRange("cbd");
+  // --- THC / CBD (numeric values) ---
+  if (strain.thc !== null && strain.thc !== undefined) {
+    if (!isNum(strain.thc) || !Number.isInteger(strain.thc) || strain.thc < 0 || strain.thc > 100) {
+      err(id, '"thc" must be an integer 0–100 or null');
+    }
+  } else {
+    err(id, '"thc" must be an integer 0-100 or null');
+  }
+
+  if (strain.cbd !== null && strain.cbd !== undefined) {
+    if (!isNum(strain.cbd) || strain.cbd < 0 || strain.cbd > 100) {
+      err(id, '"cbd" must be a number 0–100 or null');
+    } else if (Math.round(strain.cbd * 10) / 10 !== strain.cbd) {
+      err(id, '"cbd" must have at most 1 decimal place');
+    }
+  } else {
+    err(id, '"cbd" must be a number 0-100 or null');
+  }
 
   // --- Terpenes ---
   if (!isArr(strain.terpenes))
