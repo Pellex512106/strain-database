@@ -73,8 +73,14 @@
           "type": "private"
         }
       ],
-      "thc": 20,
-      "cbd": 0.3,
+      "thc": {
+        "min": 20,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.3,
+        "max": 0.3
+      },
       "terpenes": [
         "Myrcene",
         "Limonene",
@@ -134,8 +140,14 @@
           "type": "private"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -195,8 +207,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 0,
-      "cbd": 17.5,
+      "thc": {
+        "min": 0,
+        "max": 0
+      },
+      "cbd": {
+        "min": 17.5,
+        "max": 17.5
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -253,8 +271,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 25,
-      "cbd": 0.2,
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -314,8 +338,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 19,
-      "cbd": 0.2,
+      "thc": {
+        "min": 19,
+        "max": 19
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Pinene",
@@ -377,8 +407,14 @@
           "type": "private"
         }
       ],
-      "thc": 18,
-      "cbd": 0.2,
+      "thc": {
+        "min": 18,
+        "max": 18
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -434,8 +470,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 18,
-      "cbd": 0.2,
+      "thc": {
+        "min": 18,
+        "max": 18
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -493,8 +535,14 @@
           "type": "private"
         }
       ],
-      "thc": 18,
-      "cbd": 0.2,
+      "thc": {
+        "min": 18,
+        "max": 18
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Pinene",
@@ -550,8 +598,14 @@
           "type": "private"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Terpinolene",
         "Ocimene",
@@ -609,8 +663,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [],
       "genetics": {
         "type": "Indica-dominant Hybrid",
@@ -658,8 +718,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 22,
-      "cbd": 0.2,
+      "thc": {
+        "min": 22,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -708,8 +774,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 18,
-      "cbd": 0.3,
+      "thc": {
+        "min": 18,
+        "max": 18
+      },
+      "cbd": {
+        "min": 0.3,
+        "max": 0.3
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -767,8 +839,14 @@
           "type": "private"
         }
       ],
-      "thc": 18,
-      "cbd": 0.2,
+      "thc": {
+        "min": 18,
+        "max": 18
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Terpinolene",
         "Myrcene",
@@ -825,8 +903,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": null,
@@ -862,8 +946,14 @@
       "status": "stub",
       "name": "Ruderalis",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Ruderalis",
@@ -898,8 +988,14 @@
       "status": "stub",
       "name": "Gorilla Glue #4",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -935,8 +1031,14 @@
       "status": "stub",
       "name": "Zkittlez",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Indica-dominant Hybrid",
@@ -969,8 +1071,14 @@
       "status": "stub",
       "name": "Girl Scout Cookies",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -1006,8 +1114,14 @@
       "status": "stub",
       "name": "Purple Punch",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Indica-dominant Hybrid",
@@ -1040,8 +1154,14 @@
       "status": "stub",
       "name": "Do-Si-Dos",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Indica-dominant Hybrid",
@@ -1076,8 +1196,14 @@
       "status": "stub",
       "name": "Tangie",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Sativa-dominant Hybrid",
@@ -1110,8 +1236,14 @@
       "status": "stub",
       "name": "AK-47",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -1147,8 +1279,14 @@
       "status": "stub",
       "name": "Sour Diesel",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Sativa-dominant Hybrid",
@@ -1183,8 +1321,14 @@
       "status": "stub",
       "name": "Bruce Banner",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -1219,8 +1363,14 @@
       "status": "stub",
       "name": "Stardawg",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Sativa-dominant Hybrid",
@@ -1253,8 +1403,14 @@
       "status": "stub",
       "name": "Pineapple Express",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Sativa-dominant Hybrid",
@@ -1287,8 +1443,14 @@
       "status": "stub",
       "name": "Wedding Cake",
       "breeder": [],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Indica-dominant Hybrid",
@@ -1329,8 +1491,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 25,
-      "cbd": 0.2,
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -1390,8 +1558,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 24,
-      "cbd": 0.2,
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Limonene",
@@ -1451,8 +1625,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 24,
-      "cbd": 0.2,
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -1512,8 +1692,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 22,
-      "cbd": 0.2,
+      "thc": {
+        "min": 22,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Limonene",
@@ -1572,8 +1758,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 22,
-      "cbd": 0.2,
+      "thc": {
+        "min": 22,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Limonene",
@@ -1633,8 +1825,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -1694,8 +1892,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 26,
-      "cbd": 0.2,
+      "thc": {
+        "min": 26,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -1755,8 +1959,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 24,
-      "cbd": 0.2,
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -1816,8 +2026,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Terpinolene",
         "Limonene",
@@ -1875,8 +2091,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Terpinolene",
         "Myrcene",
@@ -1936,8 +2158,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 27,
-      "cbd": 0.2,
+      "thc": {
+        "min": 27,
+        "max": 27
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -1998,8 +2226,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 15,
-      "cbd": 0.2,
+      "thc": {
+        "min": 15,
+        "max": 15
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Pinene",
@@ -2060,8 +2294,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -2122,8 +2362,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 23,
-      "cbd": 0.2,
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Terpinolene",
         "Myrcene",
@@ -2182,8 +2428,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 26,
-      "cbd": 0.2,
+      "thc": {
+        "min": 26,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -2241,8 +2493,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -2301,8 +2559,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 25,
-      "cbd": 0.2,
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Limonene",
@@ -2362,8 +2626,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 25,
-      "cbd": 0.2,
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -2423,8 +2693,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 23,
-      "cbd": 0.2,
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Terpinolene",
         "Limonene",
@@ -2483,8 +2759,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -2543,8 +2825,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 23,
-      "cbd": 0.2,
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Limonene",
@@ -2603,8 +2891,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Terpinolene",
@@ -2664,8 +2958,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -2724,8 +3024,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 7,
-      "cbd": 6,
+      "thc": {
+        "min": 7,
+        "max": 7
+      },
+      "cbd": {
+        "min": 6,
+        "max": 6
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -2784,8 +3090,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 23,
-      "cbd": 0.2,
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Terpinolene",
         "Limonene",
@@ -2843,8 +3155,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -2903,8 +3221,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 26,
-      "cbd": 0.2,
+      "thc": {
+        "min": 26,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -2964,8 +3288,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 25,
-      "cbd": 0.2,
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Linalool",
@@ -3025,8 +3355,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 23,
-      "cbd": 0.2,
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Terpinolene",
@@ -3086,8 +3422,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -3146,8 +3488,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -3206,8 +3554,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 26,
-      "cbd": 0.2,
+      "thc": {
+        "min": 26,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Limonene",
@@ -3268,8 +3622,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -3328,8 +3688,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Terpinolene",
         "Myrcene",
@@ -3388,8 +3754,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 20,
-      "cbd": 0.2,
+      "thc": {
+        "min": 20,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -3449,8 +3821,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -3509,8 +3887,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -3569,8 +3953,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 18,
-      "cbd": 0.2,
+      "thc": {
+        "min": 18,
+        "max": 18
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Limonene",
@@ -3628,8 +4018,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 25,
-      "cbd": 0.2,
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -3690,8 +4086,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 25,
-      "cbd": 0.2,
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -3751,8 +4153,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 23,
-      "cbd": 0.2,
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -3810,8 +4218,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -3870,8 +4284,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 20,
-      "cbd": 0.2,
+      "thc": {
+        "min": 20,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Terpinolene",
@@ -3930,8 +4350,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 24,
-      "cbd": 0.2,
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -3990,8 +4416,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Linalool",
@@ -4051,8 +4483,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 22,
-      "cbd": 0.2,
+      "thc": {
+        "min": 22,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -4110,8 +4548,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 23,
-      "cbd": 0.2,
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Limonene",
@@ -4169,8 +4613,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 24,
-      "cbd": 0.2,
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Terpinolene",
@@ -4229,8 +4679,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 24,
-      "cbd": 0.2,
+      "thc": {
+        "min": 24,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -4290,8 +4746,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 21,
-      "cbd": 0.2,
+      "thc": {
+        "min": 21,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -4352,8 +4814,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Sativa-dominant Hybrid",
@@ -4392,8 +4860,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Sativa-dominant Hybrid",
@@ -4434,8 +4908,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Indica-dominant Hybrid",
@@ -4474,8 +4954,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 25,
-      "cbd": 0.2,
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -4535,8 +5021,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 23,
-      "cbd": 0.2,
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Linalool",
         "Limonene",
@@ -4595,8 +5087,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 25,
-      "cbd": 0.2,
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -4655,8 +5153,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 23,
-      "cbd": 0.2,
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -4713,8 +5217,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 23,
-      "cbd": 0.2,
+      "thc": {
+        "min": 23,
+        "max": 23
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Terpinolene",
@@ -4775,8 +5285,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -4818,8 +5334,14 @@
           "type": "private"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -4861,8 +5383,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -4903,8 +5431,14 @@
           "type": "private"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -4943,8 +5477,14 @@
           "type": "private"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Indica-dominant Hybrid",
@@ -4985,8 +5525,14 @@
           "type": "private"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5025,8 +5571,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5067,8 +5619,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Sativa-dominant Hybrid",
@@ -5107,8 +5665,14 @@
           "type": "private"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Indica-dominant Hybrid",
@@ -5147,8 +5711,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 34,
-      "cbd": 1.5,
+      "thc": {
+        "min": 34,
+        "max": 34
+      },
+      "cbd": {
+        "min": 1.5,
+        "max": 1.5
+      },
       "terpenes": [
         "Caryophyllene",
         "Limonene",
@@ -5208,8 +5778,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 28,
-      "cbd": 1.5,
+      "thc": {
+        "min": 28,
+        "max": 28
+      },
+      "cbd": {
+        "min": 1.5,
+        "max": 1.5
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -5269,8 +5845,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 31,
-      "cbd": 1.5,
+      "thc": {
+        "min": 31,
+        "max": 31
+      },
+      "cbd": {
+        "min": 1.5,
+        "max": 1.5
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -5329,8 +5911,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 33,
-      "cbd": 1.5,
+      "thc": {
+        "min": 33,
+        "max": 33
+      },
+      "cbd": {
+        "min": 1.5,
+        "max": 1.5
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -5390,8 +5978,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 39,
-      "cbd": 1.5,
+      "thc": {
+        "min": 39,
+        "max": 39
+      },
+      "cbd": {
+        "min": 1.5,
+        "max": 1.5
+      },
       "terpenes": [
         "Caryophyllene",
         "Limonene",
@@ -5452,8 +6046,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 32,
-      "cbd": 1.5,
+      "thc": {
+        "min": 32,
+        "max": 32
+      },
+      "cbd": {
+        "min": 1.5,
+        "max": 1.5
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -5513,8 +6113,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 31,
-      "cbd": 1.5,
+      "thc": {
+        "min": 31,
+        "max": 31
+      },
+      "cbd": {
+        "min": 1.5,
+        "max": 1.5
+      },
       "terpenes": [
         "Limonene",
         "Myrcene",
@@ -5574,8 +6180,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 37,
-      "cbd": 1.5,
+      "thc": {
+        "min": 37,
+        "max": 37
+      },
+      "cbd": {
+        "min": 1.5,
+        "max": 1.5
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -5633,8 +6245,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 28,
-      "cbd": 1.5,
+      "thc": {
+        "min": 28,
+        "max": 28
+      },
+      "cbd": {
+        "min": 1.5,
+        "max": 1.5
+      },
       "terpenes": [
         "Limonene",
         "Terpinolene",
@@ -5693,8 +6311,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5733,8 +6357,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5776,8 +6406,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5816,8 +6452,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5856,8 +6498,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5899,8 +6547,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5942,8 +6596,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -5982,8 +6642,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -6022,8 +6688,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -6062,8 +6734,14 @@
           "type": "commercial"
         }
       ],
-      "thc": null,
-      "cbd": null,
+      "thc": {
+        "min": null,
+        "max": null
+      },
+      "cbd": {
+        "min": null,
+        "max": null
+      },
       "terpenes": [],
       "genetics": {
         "type": "Hybrid",
@@ -6102,8 +6780,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 26,
-      "cbd": 0.5,
+      "thc": {
+        "min": 26,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.5,
+        "max": 0.5
+      },
       "terpenes": [
         "Myrcene",
         "Limonene",
@@ -6161,8 +6845,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 28,
-      "cbd": 0.5,
+      "thc": {
+        "min": 28,
+        "max": 28
+      },
+      "cbd": {
+        "min": 0.5,
+        "max": 0.5
+      },
       "terpenes": [
         "Caryophyllene",
         "Limonene",
@@ -6218,8 +6908,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 27,
-      "cbd": 0.5,
+      "thc": {
+        "min": 27,
+        "max": 27
+      },
+      "cbd": {
+        "min": 0.5,
+        "max": 0.5
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -6275,8 +6971,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 26,
-      "cbd": 0.5,
+      "thc": {
+        "min": 26,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.5,
+        "max": 0.5
+      },
       "terpenes": [
         "Myrcene",
         "Limonene",
@@ -6333,8 +7035,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 28,
-      "cbd": 0.5,
+      "thc": {
+        "min": 28,
+        "max": 28
+      },
+      "cbd": {
+        "min": 0.5,
+        "max": 0.5
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -6390,8 +7098,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 25,
-      "cbd": 0.5,
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.5,
+        "max": 0.5
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -6449,8 +7163,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 25,
-      "cbd": 0.5,
+      "thc": {
+        "min": 25,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.5,
+        "max": 0.5
+      },
       "terpenes": [
         "Limonene",
         "Terpinolene",
@@ -6507,8 +7227,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 26,
-      "cbd": 0.5,
+      "thc": {
+        "min": 26,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.5,
+        "max": 0.5
+      },
       "terpenes": [
         "Myrcene",
         "Limonene",
@@ -6564,8 +7290,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 27,
-      "cbd": 0.5,
+      "thc": {
+        "min": 27,
+        "max": 27
+      },
+      "cbd": {
+        "min": 0.5,
+        "max": 0.5
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -6622,8 +7354,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 26,
-      "cbd": 0.5,
+      "thc": {
+        "min": 26,
+        "max": 26
+      },
+      "cbd": {
+        "min": 0.5,
+        "max": 0.5
+      },
       "terpenes": [
         "Caryophyllene",
         "Myrcene",
@@ -6679,8 +7417,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 37,
-      "cbd": 0.2,
+      "thc": {
+        "min": 37,
+        "max": 37
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Myrcene",
@@ -6738,8 +7482,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 33,
-      "cbd": 0.2,
+      "thc": {
+        "min": 33,
+        "max": 33
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Pinene",
@@ -6796,8 +7546,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 32,
-      "cbd": 0.2,
+      "thc": {
+        "min": 32,
+        "max": 32
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Limonene",
@@ -6854,8 +7610,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 34,
-      "cbd": 0.2,
+      "thc": {
+        "min": 34,
+        "max": 34
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Caryophyllene",
@@ -6910,8 +7672,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 36,
-      "cbd": 0.2,
+      "thc": {
+        "min": 36,
+        "max": 36
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Myrcene",
@@ -6965,8 +7733,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 36,
-      "cbd": 0.2,
+      "thc": {
+        "min": 36,
+        "max": 36
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Caryophyllene",
@@ -7021,8 +7795,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 33,
-      "cbd": 0.2,
+      "thc": {
+        "min": 33,
+        "max": 33
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Limonene",
@@ -7076,8 +7856,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 39,
-      "cbd": 0.2,
+      "thc": {
+        "min": 39,
+        "max": 39
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Limonene",
         "Myrcene",
@@ -7132,8 +7918,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 34,
-      "cbd": 0.2,
+      "thc": {
+        "min": 34,
+        "max": 34
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Myrcene",
         "Limonene",
@@ -7187,8 +7979,14 @@
           "type": "commercial"
         }
       ],
-      "thc": 29,
-      "cbd": 0.2,
+      "thc": {
+        "min": 29,
+        "max": 29
+      },
+      "cbd": {
+        "min": 0.2,
+        "max": 0.2
+      },
       "terpenes": [
         "Caryophyllene",
         "Limonene",
