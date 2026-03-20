@@ -63,6 +63,539 @@
   },
   "strains": [
     {
+      "id": "hash-plant",
+      "status": "stub",
+      "name": "Hash Plant",
+      "breeder": [{ "name": "Unknown", "country": "Unknown", "type": "private" }],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": { "type": "Indica", "parents": [] },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": [],
+      "description": "",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20"
+    },
+    {
+      "id": "acapulco-gold",
+      "status": "stub",
+      "name": "Acapulco Gold",
+      "breeder": [{ "name": "Unknown", "country": "MX", "type": "private" }],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": { "type": "Sativa", "parents": [] },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": ["landrace"],
+      "description": "",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20"
+    },
+    {
+      "id": "colombian-gold",
+      "status": "stub",
+      "name": "Colombian Gold",
+      "breeder": [{ "name": "Unknown", "country": "CO", "type": "private" }],
+      "thc": { "min": null, "max": null },
+      "cbd": { "min": null, "max": null },
+      "terpenes": [],
+      "genetics": { "type": "Sativa", "parents": [] },
+      "effects": [],
+      "flavors": [],
+      "flowering_time_weeks": {
+        "indoor": { "min": null, "max": null },
+        "outdoor": { "min": null, "max": null }
+      },
+      "yield": { "indoor_g_m2": null, "outdoor_g_plant": null },
+      "difficulty": "Moderate",
+      "tags": ["landrace"],
+      "description": "",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20"
+    },
+    {
+      "id": "super-skunk",
+      "status": "complete",
+      "name": "Super Skunk",
+      "breeder": [
+        {
+          "name": "Sensi Seeds",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 19,
+        "max": 25
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 1
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "skunk-1",
+          "afghani"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "euphoric",
+        "happy",
+        "sleepy"
+      ],
+      "flavors": [
+        "earthy",
+        "sweet",
+        "peppery"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 6,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 7,
+          "max": 8
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 650
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "award-winner",
+        "classic"
+      ],
+      "description": "A robust, highly potent strain bred from Skunk #1 and an Afghan resin plant, known for its deeply relaxing effects and sweet, earthy aroma.",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20"
+    },
+    {
+      "id": "big-bud",
+      "status": "complete",
+      "name": "Big Bud",
+      "breeder": [
+        {
+          "name": "Sensi Seeds",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 15,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.5
+      },
+      "terpenes": [
+        "Myrcene",
+        "Pinene",
+        "Caryophyllene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "afghani",
+          "northern-lights",
+          "skunk-1"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "sleepy",
+        "euphoric",
+        "happy"
+      ],
+      "flavors": [
+        "earthy",
+        "spicy",
+        "woody"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 9
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 10
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 600,
+        "outdoor_g_plant": 1000
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "award-winner",
+        "classic",
+        "indoor-optimized"
+      ],
+      "description": "Renowned for its massive yields and huge buds. Delivers a potent, long-lasting indica stone.",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20"
+    },
+    {
+      "id": "shiva-skunk",
+      "status": "complete",
+      "name": "Shiva Skunk",
+      "breeder": [
+        {
+          "name": "Sensi Seeds",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 15,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.5
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "northern-lights",
+          "skunk-1"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "happy",
+        "euphoric",
+        "uplifted"
+      ],
+      "flavors": [
+        "earthy",
+        "spicy",
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 800
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "cup-winner",
+        "classic"
+      ],
+      "description": "Sensi Seeds' most potent Skunk variety, offering a powerful indica body high combined with a mild sativa mental uplift.",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20"
+    },
+    {
+      "id": "black-domina",
+      "status": "complete",
+      "name": "Black Domina",
+      "breeder": [
+        {
+          "name": "Sensi Seeds",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 18,
+        "max": 21
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.5
+      },
+      "terpenes": [
+        "Myrcene",
+        "Caryophyllene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Indica",
+        "parents": [
+          "northern-lights",
+          "afghani",
+          "hash-plant"
+        ]
+      },
+      "effects": [
+        "relaxed",
+        "sleepy",
+        "happy",
+        "euphoric"
+      ],
+      "flavors": [
+        "spicy",
+        "earthy",
+        "woody"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 7,
+          "max": 8
+        },
+        "outdoor": {
+          "min": 8,
+          "max": 9
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 500
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "classic",
+        "indoor-optimized",
+        "medical",
+        "cup-winner"
+      ],
+      "description": "A pure, heavy indica known for its intensely dark foliage and deep, narcotic physical relaxation that is perfect for late evenings.",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20"
+    },
+    {
+      "id": "silver-haze",
+      "status": "complete",
+      "name": "Silver Haze",
+      "breeder": [
+        {
+          "name": "Sensi Seeds",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 18,
+        "max": 22
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 0.5
+      },
+      "terpenes": [
+        "Terpinolene",
+        "Myrcene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Sativa-dominant Hybrid",
+        "parents": [
+          "haze",
+          "northern-lights"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "uplifted",
+        "creative",
+        "talkative",
+        "happy"
+      ],
+      "flavors": [
+        "pine",
+        "citrus",
+        "sweet"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 9,
+          "max": 11
+        },
+        "outdoor": {
+          "min": 10,
+          "max": 12
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 450,
+        "outdoor_g_plant": 600
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "cup-winner",
+        "classic"
+      ],
+      "description": "A beloved Sativa-dominant classic that delivers a clear-headed, uplifting cerebral high alongside an earthy, sweet pine aroma.",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20"
+    },
+    {
+      "id": "jack-herer",
+      "status": "complete",
+      "name": "Jack Herer",
+      "breeder": [
+        {
+          "name": "Sensi Seeds",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 15,
+        "max": 24
+      },
+      "cbd": {
+        "min": 0.7,
+        "max": 2
+      },
+      "terpenes": [
+        "Terpinolene",
+        "Caryophyllene",
+        "Pinene"
+      ],
+      "genetics": {
+        "type": "Hybrid",
+        "parents": [
+          "haze",
+          "northern-lights",
+          "shiva-skunk"
+        ]
+      },
+      "effects": [
+        "uplifted",
+        "happy",
+        "creative",
+        "energetic",
+        "focused"
+      ],
+      "flavors": [
+        "earthy",
+        "pine",
+        "spicy",
+        "woody"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 8,
+          "max": 10
+        },
+        "outdoor": {
+          "min": 9,
+          "max": 11
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 600
+      },
+      "difficulty": "Moderate",
+      "tags": [
+        "award-winner",
+        "classic",
+        "cup-winner"
+      ],
+      "description": "A legendary hybrid known for its uplifting cerebral effects and thick resin production. A true classic.",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20"
+    },
+    {
+      "id": "skunk-1",
+      "status": "complete",
+      "name": "Skunk #1",
+      "breeder": [
+        {
+          "name": "Sensi Seeds",
+          "country": "NL",
+          "type": "commercial"
+        }
+      ],
+      "thc": {
+        "min": 15,
+        "max": 20
+      },
+      "cbd": {
+        "min": 0.1,
+        "max": 1
+      },
+      "terpenes": [
+        "Myrcene",
+        "Pinene",
+        "Limonene"
+      ],
+      "genetics": {
+        "type": "Indica-dominant Hybrid",
+        "parents": [
+          "afghani",
+          "acapulco-gold",
+          "colombian-gold"
+        ]
+      },
+      "effects": [
+        "energetic",
+        "relaxed",
+        "euphoric",
+        "happy"
+      ],
+      "flavors": [
+        "earthy",
+        "sweet",
+        "herbal"
+      ],
+      "flowering_time_weeks": {
+        "indoor": {
+          "min": 6,
+          "max": 7
+        },
+        "outdoor": {
+          "min": 7,
+          "max": 8
+        }
+      },
+      "yield": {
+        "indoor_g_m2": 500,
+        "outdoor_g_plant": 450
+      },
+      "difficulty": "Easy",
+      "tags": [
+        "classic",
+        "beginner-friendly",
+        "indoor-optimized"
+      ],
+      "description": "The world's first stable Indica-Sativa hybrid, known for its extreme hybrid vigor, robust growth, and balanced euphoric effects.",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20"
+    },
+    {
       "id": "og-kush",
       "status": "complete",
       "name": "OG Kush",
